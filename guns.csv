@@ -1,0 +1,2224 @@
+STATE,YEAR,EMP,# GL,# GR
+Alabama,2012,NA,6084,76159
+Alabama,2013,NA,882,94721
+Alabama,2014,NA,582,96744
+Alabama,2015,NA,481,114419
+Alabama,2016,NA,1182,134687
+Alabama,2017,NA,722,161641
+Alabama,2011,NA,NA,64027
+Alabama,2018,NA,NA,163398
+Alabama,2000,1550,NA,NA
+Alabama,2001,960,NA,NA
+Alabama,2001,1210,NA,NA
+Alabama,2002,1000,NA,NA
+Alabama,2002,1240,NA,NA
+Alabama,2003,1080,NA,NA
+Alabama,2003,1420,NA,NA
+Alabama,2004,1040,NA,NA
+Alabama,2004,1320,NA,NA
+Alabama,2005,970,NA,NA
+Alabama,2005,1110,NA,NA
+Alabama,2006,1120,NA,NA
+Alabama,2006,970,NA,NA
+Alabama,2007,900,NA,NA
+Alabama,2007,650,NA,NA
+Alabama,2008,940,NA,NA
+Alabama,2008,620,NA,NA
+Alabama,2009,650,NA,NA
+Alabama,2009,840,NA,NA
+Alabama,2010,600,NA,NA
+Alabama,2010,1050,NA,NA
+Alabama,2011,770,NA,NA
+Alabama,2011,1060,NA,NA
+Alabama,2012,710,NA,NA
+Alabama,2012,1060,NA,NA
+Alabama,2013,790,NA,NA
+Alabama,2013,1160,NA,NA
+Alabama,2014,650,NA,NA
+Alabama,2014,840,NA,NA
+Alabama,2015,650,NA,NA
+Alabama,2015,840,NA,NA
+Alabama,2016,900,NA,NA
+Alabama,2016,650,NA,NA
+Alaska,2012,NA,717,8939
+Alaska,2013,NA,44,10000
+Alaska,2014,NA,89,11167
+Alaska,2015,NA,141,12424
+Alaska,2016,NA,58,13439
+Alaska,2017,NA,57,15824
+Alaska,2011,NA,NA,8018
+Alaska,2018,NA,NA,17572
+Alaska,2000,270,NA,NA
+Alaska,2000,370,NA,NA
+Alaska,2001,360,NA,NA
+Alaska,2001,470,NA,NA
+Alaska,2002,220,NA,NA
+Alaska,2002,500,NA,NA
+Alaska,2003,240,NA,NA
+Alaska,2003,650,NA,NA
+Alaska,2004,230,NA,NA
+Alaska,2004,670,NA,NA
+Alaska,2005,240,NA,NA
+Alaska,2005,**,NA,NA
+Alaska,2006,290,NA,NA
+Alaska,2006,330,NA,NA
+Alaska,2007,380,NA,NA
+Alaska,2008,450,NA,NA
+Alaska,2008,300,NA,NA
+Alaska,2009,370,NA,NA
+Alaska,2009,360,NA,NA
+Alaska,2010,420,NA,NA
+Alaska,2010,590,NA,NA
+Alaska,2011,510,NA,NA
+Alaska,2011,580,NA,NA
+Alaska,2012,590,NA,NA
+Alaska,2012,640,NA,NA
+Alaska,2013,600,NA,NA
+Alaska,2013,460,NA,NA
+Alaska,2014,370,NA,NA
+Alaska,2014,360,NA,NA
+Alaska,2015,370,NA,NA
+Alaska,2015,360,NA,NA
+Alaska,2016,380,NA,NA
+Arizona,2012,NA,5431,56706
+Arizona,2013,NA,718,59558
+Arizona,2014,NA,347,62527
+Arizona,2015,NA,208,65425
+Arizona,2016,NA,457,69500
+Arizona,2017,NA,609,79841
+Arizona,2011,NA,NA,55844
+Arizona,2018,NA,NA,84045
+Arizona,2000,1400,NA,NA
+Arizona,2000,2220,NA,NA
+Arizona,2001,1740,NA,NA
+Arizona,2001,1760,NA,NA
+Arizona,2002,1540,NA,NA
+Arizona,2002,2200,NA,NA
+Arizona,2003,1920,NA,NA
+Arizona,2003,1350,NA,NA
+Arizona,2004,1900,NA,NA
+Arizona,2004,1490,NA,NA
+Arizona,2005,1760,NA,NA
+Arizona,2005,1670,NA,NA
+Arizona,2006,1630,NA,NA
+Arizona,2006,1630,NA,NA
+Arizona,2007,1460,NA,NA
+Arizona,2007,1770,NA,NA
+Arizona,2008,1010,NA,NA
+Arizona,2008,2030,NA,NA
+Arizona,2009,910,NA,NA
+Arizona,2009,3110,NA,NA
+Arizona,2010,1410,NA,NA
+Arizona,2010,2810,NA,NA
+Arizona,2011,1670,NA,NA
+Arizona,2011,2700,NA,NA
+Arizona,2012,1830,NA,NA
+Arizona,2012,1840,NA,NA
+Arizona,2013,1500,NA,NA
+Arizona,2013,2170,NA,NA
+Arizona,2014,910,NA,NA
+Arizona,2014,3110,NA,NA
+Arizona,2015,910,NA,NA
+Arizona,2015,3110,NA,NA
+Arizona,2016,1460,NA,NA
+Arizona,2016,1770,NA,NA
+Arkansas,2012,NA,4091,108347
+Arkansas,2013,NA,305,115699
+Arkansas,2014,NA,317,123130
+Arkansas,2015,NA,2851,136115
+Arkansas,2016,NA,257,145248
+Arkansas,2017,NA,456,179738
+Arkansas,2011,NA,NA,100005
+Arkansas,2018,NA,NA,185776
+Arkansas,2000,160,NA,NA
+Arkansas,2000,490,NA,NA
+Arkansas,2001,180,NA,NA
+Arkansas,2001,370,NA,NA
+Arkansas,2002,160,NA,NA
+Arkansas,2002,500,NA,NA
+Arkansas,2003,230,NA,NA
+Arkansas,2003,530,NA,NA
+Arkansas,2004,210,NA,NA
+Arkansas,2004,560,NA,NA
+Arkansas,2005,260,NA,NA
+Arkansas,2005,580,NA,NA
+Arkansas,2006,240,NA,NA
+Arkansas,2006,630,NA,NA
+Arkansas,2007,270,NA,NA
+Arkansas,2007,880,NA,NA
+Arkansas,2008,360,NA,NA
+Arkansas,2008,810,NA,NA
+Arkansas,2009,490,NA,NA
+Arkansas,2009,820,NA,NA
+Arkansas,2010,540,NA,NA
+Arkansas,2010,840,NA,NA
+Arkansas,2011,670,NA,NA
+Arkansas,2011,810,NA,NA
+Arkansas,2012,670,NA,NA
+Arkansas,2012,710,NA,NA
+Arkansas,2013,710,NA,NA
+Arkansas,2013,710,NA,NA
+Arkansas,2014,490,NA,NA
+Arkansas,2014,820,NA,NA
+Arkansas,2015,490,NA,NA
+Arkansas,2015,820,NA,NA
+Arkansas,2016,270,NA,NA
+Arkansas,2016,880,NA,NA
+California,2012,NA,10649,268479
+California,2013,NA,286,283913
+California,2014,NA,405,292877
+California,2015,NA,470,312264
+California,2016,NA,1163,324417
+California,2017,NA,389,344622
+California,2011,NA,NA,242766
+California,2018,NA,NA,358223
+California,2000,6890,NA,NA
+California,2000,4390,NA,NA
+California,2001,9610,NA,NA
+California,2001,5660,NA,NA
+California,2002,10340,NA,NA
+California,2002,7300,NA,NA
+California,2003,12420,NA,NA
+California,2003,9520,NA,NA
+California,2004,12320,NA,NA
+California,2004,10990,NA,NA
+California,2005,11950,NA,NA
+California,2005,11770,NA,NA
+California,2006,10310,NA,NA
+California,2006,12130,NA,NA
+California,2007,9360,NA,NA
+California,2007,14010,NA,NA
+California,2008,9810,NA,NA
+California,2008,12730,NA,NA
+California,2009,9420,NA,NA
+California,2009,13140,NA,NA
+California,2010,8450,NA,NA
+California,2010,10650,NA,NA
+California,2011,8610,NA,NA
+California,2011,10280,NA,NA
+California,2012,9950,NA,NA
+California,2012,10200,NA,NA
+California,2013,9910,NA,NA
+California,2013,11210,NA,NA
+California,2014,9420,NA,NA
+California,2014,13140,NA,NA
+California,2015,9420,NA,NA
+California,2015,13140,NA,NA
+California,2016,9360,NA,NA
+California,2016,14010,NA,NA
+Colorado,2012,NA,2609,54475
+Colorado,2013,NA,141,60171
+Colorado,2014,NA,548,63178
+Colorado,2015,NA,237,71452
+Colorado,2016,NA,319,77878
+Colorado,2017,NA,1015,92435
+Colorado,2011,NA,NA,48783
+Colorado,2018,NA,NA,100162
+Colorado,2000,2550,NA,NA
+Colorado,2000,760,NA,NA
+Colorado,2001,2570,NA,NA
+Colorado,2001,890,NA,NA
+Colorado,2002,2070,NA,NA
+Colorado,2002,960,NA,NA
+Colorado,2003,2120,NA,NA
+Colorado,2003,910,NA,NA
+Colorado,2004,2290,NA,NA
+Colorado,2004,1290,NA,NA
+Colorado,2005,2440,NA,NA
+Colorado,2005,**,NA,NA
+Colorado,2006,2790,NA,NA
+Colorado,2006,1660,NA,NA
+Colorado,2007,2570,NA,NA
+Colorado,2007,2080,NA,NA
+Colorado,2008,2930,NA,NA
+Colorado,2008,2240,NA,NA
+Colorado,2009,2960,NA,NA
+Colorado,2009,2750,NA,NA
+Colorado,2010,3190,NA,NA
+Colorado,2010,2270,NA,NA
+Colorado,2011,3230,NA,NA
+Colorado,2011,2100,NA,NA
+Colorado,2012,3320,NA,NA
+Colorado,2012,1750,NA,NA
+Colorado,2013,3480,NA,NA
+Colorado,2013,1860,NA,NA
+Colorado,2014,2960,NA,NA
+Colorado,2014,2750,NA,NA
+Colorado,2015,2960,NA,NA
+Colorado,2015,2750,NA,NA
+Colorado,2016,2570,NA,NA
+Colorado,2016,2080,NA,NA
+Connecticut,2012,NA,974,39750
+Connecticut,2013,NA,150,39950
+Connecticut,2014,NA,715,40740
+Connecticut,2015,NA,319,49877
+Connecticut,2016,NA,35,63576
+Connecticut,2017,NA,1464,82400
+Connecticut,2011,NA,NA,39386
+Connecticut,2018,NA,NA,68297
+Connecticut,2000,1640,NA,NA
+Connecticut,2000,1110,NA,NA
+Connecticut,2001,1350,NA,NA
+Connecticut,2001,1690,NA,NA
+Connecticut,2002,2070,NA,NA
+Connecticut,2002,1570,NA,NA
+Connecticut,2003,2030,NA,NA
+Connecticut,2003,1980,NA,NA
+Connecticut,2004,1740,NA,NA
+Connecticut,2004,2770,NA,NA
+Connecticut,2005,1710,NA,NA
+Connecticut,2005,3340,NA,NA
+Connecticut,2006,1900,NA,NA
+Connecticut,2006,3280,NA,NA
+Connecticut,2007,2020,NA,NA
+Connecticut,2007,3090,NA,NA
+Connecticut,2008,1790,NA,NA
+Connecticut,2008,2960,NA,NA
+Connecticut,2009,1700,NA,NA
+Connecticut,2009,2850,NA,NA
+Connecticut,2010,1840,NA,NA
+Connecticut,2010,2770,NA,NA
+Connecticut,2011,2050,NA,NA
+Connecticut,2011,2570,NA,NA
+Connecticut,2012,1620,NA,NA
+Connecticut,2012,2360,NA,NA
+Connecticut,2013,1480,NA,NA
+Connecticut,2013,2110,NA,NA
+Connecticut,2014,1700,NA,NA
+Connecticut,2014,2850,NA,NA
+Connecticut,2015,1700,NA,NA
+Connecticut,2015,2850,NA,NA
+Connecticut,2016,2020,NA,NA
+Connecticut,2016,3090,NA,NA
+Delaware,2012,NA,344,3687
+Delaware,2013,NA,65,3832
+Delaware,2014,NA,15,3907
+Delaware,2015,NA,25,4087
+Delaware,2016,NA,52,4408
+Delaware,2017,NA,40,4852
+Delaware,2011,NA,NA,3304
+Delaware,2018,NA,NA,4984
+Delaware,2000,280,NA,NA
+Delaware,2000,240,NA,NA
+Delaware,2001,260,NA,NA
+Delaware,2001,560,NA,NA
+Delaware,2002,340,NA,NA
+Delaware,2002,620,NA,NA
+Delaware,2003,400,NA,NA
+Delaware,2003,940,NA,NA
+Delaware,2004,310,NA,NA
+Delaware,2004,670,NA,NA
+Delaware,2005,190,NA,NA
+Delaware,2005,**,NA,NA
+Delaware,2006,190,NA,NA
+Delaware,2006,450,NA,NA
+Delaware,2007,190,NA,NA
+Delaware,2007,560,NA,NA
+Delaware,2008,150,NA,NA
+Delaware,2008,710,NA,NA
+Delaware,2009,120,NA,NA
+Delaware,2009,620,NA,NA
+Delaware,2010,180,NA,NA
+Delaware,2010,470,NA,NA
+Delaware,2011,**,NA,NA
+Delaware,2011,420,NA,NA
+Delaware,2012,470,NA,NA
+Delaware,2012,400,NA,NA
+Delaware,2013,500,NA,NA
+Delaware,2013,340,NA,NA
+Delaware,2014,120,NA,NA
+Delaware,2014,620,NA,NA
+Delaware,2015,120,NA,NA
+Delaware,2015,620,NA,NA
+Delaware,2016,190,NA,NA
+Delaware,2016,560,NA,NA
+Florida,2012,NA,12571,175528
+Florida,2013,NA,566,187763
+Florida,2014,NA,173,199828
+Florida,2015,NA,700,254391
+Florida,2016,NA,1260,277227
+Florida,2017,NA,896,343288
+Florida,2011,NA,NA,156971
+Florida,2018,NA,NA,377207
+Florida,2000,3000,NA,NA
+Florida,2000,3690,NA,NA
+Florida,2001,4030,NA,NA
+Florida,2001,3890,NA,NA
+Florida,2002,4230,NA,NA
+Florida,2002,4260,NA,NA
+Florida,2003,5060,NA,NA
+Florida,2003,5580,NA,NA
+Florida,2004,4780,NA,NA
+Florida,2004,5030,NA,NA
+Florida,2005,4390,NA,NA
+Florida,2005,5560,NA,NA
+Florida,2006,4390,NA,NA
+Florida,2006,6160,NA,NA
+Florida,2007,3720,NA,NA
+Florida,2007,5630,NA,NA
+Florida,2008,3890,NA,NA
+Florida,2008,6270,NA,NA
+Florida,2009,4410,NA,NA
+Florida,2009,6080,NA,NA
+Florida,2010,4790,NA,NA
+Florida,2010,5040,NA,NA
+Florida,2011,5220,NA,NA
+Florida,2011,4020,NA,NA
+Florida,2012,5150,NA,NA
+Florida,2012,3330,NA,NA
+Florida,2013,4710,NA,NA
+Florida,2013,3930,NA,NA
+Florida,2014,4410,NA,NA
+Florida,2014,6080,NA,NA
+Florida,2015,4410,NA,NA
+Florida,2015,6080,NA,NA
+Florida,2016,3720,NA,NA
+Florida,2016,5630,NA,NA
+Georgia,2012,NA,12906,114110
+Georgia,2013,NA,899,135024
+Georgia,2014,NA,914,145412
+Georgia,2015,NA,683,168162
+Georgia,2016,NA,1530,165523
+Georgia,2017,NA,871,190050
+Georgia,2011,NA,NA,106001
+Georgia,2018,NA,NA,203396
+Georgia,2000,530,NA,NA
+Georgia,2000,530,NA,NA
+Georgia,2001,860,NA,NA
+Georgia,2001,600,NA,NA
+Georgia,2002,820,NA,NA
+Georgia,2002,790,NA,NA
+Georgia,2003,590,NA,NA
+Georgia,2003,1100,NA,NA
+Georgia,2004,820,NA,NA
+Georgia,2004,1060,NA,NA
+Georgia,2005,810,NA,NA
+Georgia,2005,1130,NA,NA
+Georgia,2006,**,NA,NA
+Georgia,2006,1200,NA,NA
+Georgia,2007,1360,NA,NA
+Georgia,2007,1120,NA,NA
+Georgia,2008,1540,NA,NA
+Georgia,2008,1220,NA,NA
+Georgia,2009,1520,NA,NA
+Georgia,2009,1030,NA,NA
+Georgia,2010,1670,NA,NA
+Georgia,2010,1010,NA,NA
+Georgia,2011,1340,NA,NA
+Georgia,2011,910,NA,NA
+Georgia,2012,1460,NA,NA
+Georgia,2012,1210,NA,NA
+Georgia,2013,1560,NA,NA
+Georgia,2013,1290,NA,NA
+Georgia,2014,1520,NA,NA
+Georgia,2014,1030,NA,NA
+Georgia,2015,1520,NA,NA
+Georgia,2015,1030,NA,NA
+Georgia,2016,1360,NA,NA
+Georgia,2016,1120,NA,NA
+Hawaii,2012,NA,148,6185
+Hawaii,2013,NA,19,6954
+Hawaii,2014,NA,21,7105
+Hawaii,2015,NA,5,7403
+Hawaii,2016,NA,3,7571
+Hawaii,2017,NA,5,7859
+Hawaii,2011,NA,NA,5692
+Hawaii,2018,NA,NA,8018
+Hawaii,2000,90,NA,NA
+Hawaii,2000,360,NA,NA
+Hawaii,2001,240,NA,NA
+Hawaii,2001,430,NA,NA
+Hawaii,2002,250,NA,NA
+Hawaii,2002,290,NA,NA
+Hawaii,2003,340,NA,NA
+Hawaii,2003,270,NA,NA
+Hawaii,2004,470,NA,NA
+Hawaii,2004,280,NA,NA
+Hawaii,2005,270,NA,NA
+Hawaii,2005,340,NA,NA
+Hawaii,2006,510,NA,NA
+Hawaii,2006,240,NA,NA
+Hawaii,2007,430,NA,NA
+Hawaii,2007,370,NA,NA
+Hawaii,2008,410,NA,NA
+Hawaii,2008,580,NA,NA
+Hawaii,2009,170,NA,NA
+Hawaii,2009,610,NA,NA
+Hawaii,2010,150,NA,NA
+Hawaii,2010,420,NA,NA
+Hawaii,2011,90,NA,NA
+Hawaii,2011,300,NA,NA
+Hawaii,2012,320,NA,NA
+Hawaii,2012,340,NA,NA
+Hawaii,2013,240,NA,NA
+Hawaii,2013,390,NA,NA
+Hawaii,2014,170,NA,NA
+Hawaii,2014,610,NA,NA
+Hawaii,2015,170,NA,NA
+Hawaii,2015,610,NA,NA
+Hawaii,2016,430,NA,NA
+Hawaii,2016,370,NA,NA
+Idaho,2012,NA,1087,17455
+Idaho,2013,NA,70,18439
+Idaho,2014,NA,118,18880
+Idaho,2015,NA,103,31117
+Idaho,2016,NA,133,22238
+Idaho,2017,NA,79,28494
+Idaho,2011,NA,NA,16408
+Idaho,2018,NA,NA,31587
+Idaho,2000,150,NA,NA
+Idaho,2000,190,NA,NA
+Idaho,2001,130,NA,NA
+Idaho,2001,140,NA,NA
+Idaho,2002,110,NA,NA
+Idaho,2002,140,NA,NA
+Idaho,2003,300,NA,NA
+Idaho,2004,250,NA,NA
+Idaho,2004,380,NA,NA
+Idaho,2005,390,NA,NA
+Idaho,2005,600,NA,NA
+Idaho,2006,360,NA,NA
+Idaho,2006,470,NA,NA
+Idaho,2007,480,NA,NA
+Idaho,2007,**,NA,NA
+Idaho,2008,730,NA,NA
+Idaho,2008,1010,NA,NA
+Idaho,2009,610,NA,NA
+Idaho,2009,1090,NA,NA
+Idaho,2010,500,NA,NA
+Idaho,2010,1130,NA,NA
+Idaho,2011,580,NA,NA
+Idaho,2011,870,NA,NA
+Idaho,2012,610,NA,NA
+Idaho,2012,770,NA,NA
+Idaho,2013,680,NA,NA
+Idaho,2013,740,NA,NA
+Idaho,2014,610,NA,NA
+Idaho,2014,1090,NA,NA
+Idaho,2015,610,NA,NA
+Idaho,2015,1090,NA,NA
+Idaho,2016,480,NA,NA
+Idaho,2016,**,NA,NA
+Illinois,2012,NA,3302,30319
+Illinois,2013,NA,481,34932
+Illinois,2014,NA,196,39019
+Illinois,2015,NA,200,44560
+Illinois,2016,NA,377,42924
+Illinois,2017,NA,372,49566
+Illinois,2011,NA,NA,27087
+Illinois,2018,NA,NA,52527
+Illinois,2000,2540,NA,NA
+Illinois,2000,3130,NA,NA
+Illinois,2001,2970,NA,NA
+Illinois,2001,2960,NA,NA
+Illinois,2002,4300,NA,NA
+Illinois,2002,2630,NA,NA
+Illinois,2003,2690,NA,NA
+Illinois,2003,3890,NA,NA
+Illinois,2004,2750,NA,NA
+Illinois,2004,3960,NA,NA
+Illinois,2005,2500,NA,NA
+Illinois,2005,3840,NA,NA
+Illinois,2006,3060,NA,NA
+Illinois,2006,3430,NA,NA
+Illinois,2007,4340,NA,NA
+Illinois,2007,3360,NA,NA
+Illinois,2008,4550,NA,NA
+Illinois,2008,4600,NA,NA
+Illinois,2009,5690,NA,NA
+Illinois,2009,5570,NA,NA
+Illinois,2010,5850,NA,NA
+Illinois,2010,4600,NA,NA
+Illinois,2011,5870,NA,NA
+Illinois,2011,4630,NA,NA
+Illinois,2012,5290,NA,NA
+Illinois,2012,4460,NA,NA
+Illinois,2013,4590,NA,NA
+Illinois,2013,4450,NA,NA
+Illinois,2014,5690,NA,NA
+Illinois,2014,5570,NA,NA
+Illinois,2015,5690,NA,NA
+Illinois,2015,5570,NA,NA
+Illinois,2016,4340,NA,NA
+Illinois,2016,3360,NA,NA
+Indiana,2012,NA,4774,112931
+Indiana,2013,NA,287,117373
+Indiana,2014,NA,603,118295
+Indiana,2015,NA,399,121421
+Indiana,2016,NA,551,138825
+Indiana,2017,NA,296,146487
+Indiana,2011,NA,NA,108170
+Indiana,2018,NA,NA,144428
+Indiana,2000,1130,NA,NA
+Indiana,2000,1510,NA,NA
+Indiana,2001,1100,NA,NA
+Indiana,2001,1220,NA,NA
+Indiana,2002,1210,NA,NA
+Indiana,2002,1310,NA,NA
+Indiana,2003,1310,NA,NA
+Indiana,2003,1160,NA,NA
+Indiana,2004,1510,NA,NA
+Indiana,2004,1460,NA,NA
+Indiana,2005,1420,NA,NA
+Indiana,2005,1630,NA,NA
+Indiana,2006,1490,NA,NA
+Indiana,2006,1760,NA,NA
+Indiana,2007,1620,NA,NA
+Indiana,2007,2250,NA,NA
+Indiana,2008,1260,NA,NA
+Indiana,2008,2380,NA,NA
+Indiana,2009,1070,NA,NA
+Indiana,2009,2240,NA,NA
+Indiana,2010,930,NA,NA
+Indiana,2010,2030,NA,NA
+Indiana,2011,860,NA,NA
+Indiana,2011,1570,NA,NA
+Indiana,2012,890,NA,NA
+Indiana,2012,1470,NA,NA
+Indiana,2013,1210,NA,NA
+Indiana,2013,1600,NA,NA
+Indiana,2014,1070,NA,NA
+Indiana,2014,2240,NA,NA
+Indiana,2015,1070,NA,NA
+Indiana,2015,2240,NA,NA
+Indiana,2016,1620,NA,NA
+Indiana,2016,2250,NA,NA
+Iowa,2012,NA,922,80736
+Iowa,2013,NA,71,90174
+Iowa,2014,NA,111,92700
+Iowa,2015,NA,295,100386
+Iowa,2016,NA,163,103758
+Iowa,2017,NA,275,114019
+Iowa,2011,NA,NA,71807
+Iowa,2018,NA,NA,119770
+Iowa,2000,650,NA,NA
+Iowa,2000,510,NA,NA
+Iowa,2001,920,NA,NA
+Iowa,2001,590,NA,NA
+Iowa,2002,1200,NA,NA
+Iowa,2002,730,NA,NA
+Iowa,2003,710,NA,NA
+Iowa,2003,740,NA,NA
+Iowa,2004,750,NA,NA
+Iowa,2004,970,NA,NA
+Iowa,2005,750,NA,NA
+Iowa,2005,**,NA,NA
+Iowa,2006,640,NA,NA
+Iowa,2006,1520,NA,NA
+Iowa,2007,720,NA,NA
+Iowa,2007,1650,NA,NA
+Iowa,2008,800,NA,NA
+Iowa,2008,1600,NA,NA
+Iowa,2009,1250,NA,NA
+Iowa,2009,1810,NA,NA
+Iowa,2010,1300,NA,NA
+Iowa,2010,1750,NA,NA
+Iowa,2011,1250,NA,NA
+Iowa,2011,1680,NA,NA
+Iowa,2012,1270,NA,NA
+Iowa,2012,1300,NA,NA
+Iowa,2013,1300,NA,NA
+Iowa,2013,960,NA,NA
+Iowa,2014,1250,NA,NA
+Iowa,2014,1810,NA,NA
+Iowa,2015,1250,NA,NA
+Iowa,2015,1810,NA,NA
+Iowa,2016,720,NA,NA
+Iowa,2016,1650,NA,NA
+Kansas,2012,NA,1788,27553
+Kansas,2013,NA,114,30323
+Kansas,2014,NA,224,31926
+Kansas,2015,NA,120,34826
+Kansas,2016,NA,163,37908
+Kansas,2017,NA,273,52634
+Kansas,2011,NA,NA,25024
+Kansas,2018,NA,NA,57028
+Kansas,2000,280,NA,NA
+Kansas,2000,1370,NA,NA
+Kansas,2001,540,NA,NA
+Kansas,2001,1480,NA,NA
+Kansas,2002,570,NA,NA
+Kansas,2002,1430,NA,NA
+Kansas,2003,610,NA,NA
+Kansas,2003,1510,NA,NA
+Kansas,2004,610,NA,NA
+Kansas,2004,1210,NA,NA
+Kansas,2005,450,NA,NA
+Kansas,2005,1470,NA,NA
+Kansas,2006,450,NA,NA
+Kansas,2006,1430,NA,NA
+Kansas,2007,480,NA,NA
+Kansas,2007,1480,NA,NA
+Kansas,2008,580,NA,NA
+Kansas,2008,990,NA,NA
+Kansas,2009,600,NA,NA
+Kansas,2009,870,NA,NA
+Kansas,2010,520,NA,NA
+Kansas,2010,760,NA,NA
+Kansas,2011,470,NA,NA
+Kansas,2011,880,NA,NA
+Kansas,2012,370,NA,NA
+Kansas,2012,650,NA,NA
+Kansas,2013,550,NA,NA
+Kansas,2013,740,NA,NA
+Kansas,2014,600,NA,NA
+Kansas,2014,870,NA,NA
+Kansas,2015,600,NA,NA
+Kansas,2015,870,NA,NA
+Kansas,2016,480,NA,NA
+Kansas,2016,1480,NA,NA
+Kentucky,2012,NA,3719,49024
+Kentucky,2013,NA,3727,55670
+Kentucky,2014,NA,454,59240
+Kentucky,2015,NA,184,63628
+Kentucky,2016,NA,602,72199
+Kentucky,2017,NA,1081,81068
+Kentucky,2011,NA,NA,40500
+Kentucky,2018,NA,NA,85763
+Kentucky,2000,1520,NA,NA
+Kentucky,2000,980,NA,NA
+Kentucky,2001,1620,NA,NA
+Kentucky,2001,1000,NA,NA
+Kentucky,2002,1600,NA,NA
+Kentucky,2002,1170,NA,NA
+Kentucky,2003,1420,NA,NA
+Kentucky,2003,1380,NA,NA
+Kentucky,2004,640,NA,NA
+Kentucky,2004,1890,NA,NA
+Kentucky,2005,470,NA,NA
+Kentucky,2005,2160,NA,NA
+Kentucky,2006,720,NA,NA
+Kentucky,2006,1790,NA,NA
+Kentucky,2007,930,NA,NA
+Kentucky,2007,1690,NA,NA
+Kentucky,2008,1340,NA,NA
+Kentucky,2008,1420,NA,NA
+Kentucky,2009,1180,NA,NA
+Kentucky,2009,1560,NA,NA
+Kentucky,2010,1280,NA,NA
+Kentucky,2010,1510,NA,NA
+Kentucky,2011,1090,NA,NA
+Kentucky,2011,1490,NA,NA
+Kentucky,2012,1050,NA,NA
+Kentucky,2012,1420,NA,NA
+Kentucky,2013,1350,NA,NA
+Kentucky,2013,1350,NA,NA
+Kentucky,2014,1180,NA,NA
+Kentucky,2014,1560,NA,NA
+Kentucky,2015,1180,NA,NA
+Kentucky,2015,1560,NA,NA
+Kentucky,2016,930,NA,NA
+Kentucky,2016,1690,NA,NA
+Louisiana,2012,NA,5163,58964
+Louisiana,2013,NA,270,63602
+Louisiana,2014,NA,207,69668
+Louisiana,2015,NA,332,80605
+Louisiana,2016,NA,378,89015
+Louisiana,2017,NA,220,116831
+Louisiana,2011,NA,NA,55883
+Louisiana,2018,NA,NA,117356
+Louisiana,2000,960,NA,NA
+Louisiana,2000,830,NA,NA
+Louisiana,2001,950,NA,NA
+Louisiana,2001,1020,NA,NA
+Louisiana,2002,960,NA,NA
+Louisiana,2002,1100,NA,NA
+Louisiana,2003,810,NA,NA
+Louisiana,2003,820,NA,NA
+Louisiana,2004,850,NA,NA
+Louisiana,2004,830,NA,NA
+Louisiana,2005,**,NA,NA
+Louisiana,2005,**,NA,NA
+Louisiana,2006,750,NA,NA
+Louisiana,2006,810,NA,NA
+Louisiana,2007,1450,NA,NA
+Louisiana,2007,1180,NA,NA
+Louisiana,2008,1780,NA,NA
+Louisiana,2008,1210,NA,NA
+Louisiana,2009,2150,NA,NA
+Louisiana,2009,1420,NA,NA
+Louisiana,2010,2200,NA,NA
+Louisiana,2010,1650,NA,NA
+Louisiana,2011,1650,NA,NA
+Louisiana,2011,1540,NA,NA
+Louisiana,2012,1420,NA,NA
+Louisiana,2012,1450,NA,NA
+Louisiana,2013,1200,NA,NA
+Louisiana,2013,1060,NA,NA
+Louisiana,2014,2150,NA,NA
+Louisiana,2014,1420,NA,NA
+Louisiana,2015,2150,NA,NA
+Louisiana,2015,1420,NA,NA
+Louisiana,2016,1450,NA,NA
+Louisiana,2016,1180,NA,NA
+Maine,2012,NA,450,26151
+Maine,2013,NA,34,30858
+Maine,2014,NA,102,32682
+Maine,2015,NA,4,34433
+Maine,2016,NA,89,32629
+Maine,2017,NA,285,37152
+Maine,2011,NA,NA,26061
+Maine,2018,NA,NA,40030
+Maine,2000,640,NA,NA
+Maine,2000,1050,NA,NA
+Maine,2001,640,NA,NA
+Maine,2001,1000,NA,NA
+Maine,2002,**,NA,NA
+Maine,2002,1240,NA,NA
+Maine,2003,**,NA,NA
+Maine,2003,1240,NA,NA
+Maine,2004,840,NA,NA
+Maine,2004,1950,NA,NA
+Maine,2005,590,NA,NA
+Maine,2005,1620,NA,NA
+Maine,2006,560,NA,NA
+Maine,2006,1800,NA,NA
+Maine,2007,450,NA,NA
+Maine,2007,1670,NA,NA
+Maine,2008,380,NA,NA
+Maine,2008,1430,NA,NA
+Maine,2009,350,NA,NA
+Maine,2009,1530,NA,NA
+Maine,2010,460,NA,NA
+Maine,2010,1490,NA,NA
+Maine,2011,570,NA,NA
+Maine,2011,1570,NA,NA
+Maine,2012,540,NA,NA
+Maine,2012,1410,NA,NA
+Maine,2013,300,NA,NA
+Maine,2013,1550,NA,NA
+Maine,2014,350,NA,NA
+Maine,2014,1530,NA,NA
+Maine,2015,350,NA,NA
+Maine,2015,1530,NA,NA
+Maine,2016,450,NA,NA
+Maine,2016,1670,NA,NA
+Maryland,2012,NA,1964,82187
+Maryland,2013,NA,93,86869
+Maryland,2014,NA,231,88732
+Maryland,2015,NA,122,94619
+Maryland,2016,NA,169,97447
+Maryland,2017,NA,305,103109
+Maryland,2011,NA,NA,74021
+Maryland,2018,NA,NA,115463
+Maryland,2000,1750,NA,NA
+Maryland,2000,1570,NA,NA
+Maryland,2001,1340,NA,NA
+Maryland,2001,1250,NA,NA
+Maryland,2002,1760,NA,NA
+Maryland,2002,1650,NA,NA
+Maryland,2003,1470,NA,NA
+Maryland,2003,2010,NA,NA
+Maryland,2004,1530,NA,NA
+Maryland,2004,2120,NA,NA
+Maryland,2005,1530,NA,NA
+Maryland,2005,2130,NA,NA
+Maryland,2006,1610,NA,NA
+Maryland,2006,2200,NA,NA
+Maryland,2007,1640,NA,NA
+Maryland,2007,1770,NA,NA
+Maryland,2008,1470,NA,NA
+Maryland,2008,1870,NA,NA
+Maryland,2009,1530,NA,NA
+Maryland,2009,1780,NA,NA
+Maryland,2010,1580,NA,NA
+Maryland,2010,2100,NA,NA
+Maryland,2011,2000,NA,NA
+Maryland,2011,2070,NA,NA
+Maryland,2012,1970,NA,NA
+Maryland,2012,2460,NA,NA
+Maryland,2013,2100,NA,NA
+Maryland,2013,2100,NA,NA
+Maryland,2014,1530,NA,NA
+Maryland,2014,1780,NA,NA
+Maryland,2015,1530,NA,NA
+Maryland,2015,1780,NA,NA
+Maryland,2016,1640,NA,NA
+Maryland,2016,1770,NA,NA
+Massachusetts,2012,NA,690,10871
+Massachusetts,2013,NA,216,11253
+Massachusetts,2014,NA,292,11509
+Massachusetts,2015,NA,40,12545
+Massachusetts,2016,NA,197,13402
+Massachusetts,2017,NA,186,15371
+Massachusetts,2011,NA,NA,10376
+Massachusetts,2018,NA,NA,17121
+Massachusetts,2000,3000,NA,NA
+Massachusetts,2000,3160,NA,NA
+Massachusetts,2001,3010,NA,NA
+Massachusetts,2001,4100,NA,NA
+Massachusetts,2002,3760,NA,NA
+Massachusetts,2002,4010,NA,NA
+Massachusetts,2003,3940,NA,NA
+Massachusetts,2003,4230,NA,NA
+Massachusetts,2004,4840,NA,NA
+Massachusetts,2004,4120,NA,NA
+Massachusetts,2005,5190,NA,NA
+Massachusetts,2005,3960,NA,NA
+Massachusetts,2006,4800,NA,NA
+Massachusetts,2006,3820,NA,NA
+Massachusetts,2007,5650,NA,NA
+Massachusetts,2007,5400,NA,NA
+Massachusetts,2008,6030,NA,NA
+Massachusetts,2008,6060,NA,NA
+Massachusetts,2009,5020,NA,NA
+Massachusetts,2009,6240,NA,NA
+Massachusetts,2010,5140,NA,NA
+Massachusetts,2010,4990,NA,NA
+Massachusetts,2011,6120,NA,NA
+Massachusetts,2011,5420,NA,NA
+Massachusetts,2012,7450,NA,NA
+Massachusetts,2012,4630,NA,NA
+Massachusetts,2013,8050,NA,NA
+Massachusetts,2013,5440,NA,NA
+Massachusetts,2014,5020,NA,NA
+Massachusetts,2014,6240,NA,NA
+Massachusetts,2015,5020,NA,NA
+Massachusetts,2015,6240,NA,NA
+Massachusetts,2016,5650,NA,NA
+Massachusetts,2016,5400,NA,NA
+Michigan,2012,NA,4962,36080
+Michigan,2013,NA,649,41232
+Michigan,2014,NA,114,42855
+Michigan,2015,NA,185,47791
+Michigan,2016,NA,418,52222
+Michigan,2017,NA,283,65742
+Michigan,2011,NA,NA,33050
+Michigan,2018,NA,NA,71678
+Michigan,2000,1980,NA,NA
+Michigan,2000,3310,NA,NA
+Michigan,2001,1820,NA,NA
+Michigan,2001,3530,NA,NA
+Michigan,2002,2000,NA,NA
+Michigan,2002,3380,NA,NA
+Michigan,2003,2090,NA,NA
+Michigan,2003,3300,NA,NA
+Michigan,2004,1950,NA,NA
+Michigan,2004,4430,NA,NA
+Michigan,2005,**,NA,NA
+Michigan,2005,4330,NA,NA
+Michigan,2006,2270,NA,NA
+Michigan,2006,4180,NA,NA
+Michigan,2007,2080,NA,NA
+Michigan,2007,4490,NA,NA
+Michigan,2008,2030,NA,NA
+Michigan,2008,4990,NA,NA
+Michigan,2009,2040,NA,NA
+Michigan,2009,5210,NA,NA
+Michigan,2010,2070,NA,NA
+Michigan,2010,5010,NA,NA
+Michigan,2011,1890,NA,NA
+Michigan,2011,4600,NA,NA
+Michigan,2012,1930,NA,NA
+Michigan,2012,4370,NA,NA
+Michigan,2013,2280,NA,NA
+Michigan,2013,4550,NA,NA
+Michigan,2014,2040,NA,NA
+Michigan,2014,5210,NA,NA
+Michigan,2015,2040,NA,NA
+Michigan,2015,5210,NA,NA
+Michigan,2016,2080,NA,NA
+Michigan,2016,4490,NA,NA
+Minnesota,2012,NA,1353,48340
+Minnesota,2013,NA,109,51150
+Minnesota,2014,NA,187,51658
+Minnesota,2015,NA,120,58239
+Minnesota,2016,NA,185,63999
+Minnesota,2017,NA,73,79307
+Minnesota,2011,NA,NA,47116
+Minnesota,2018,NA,NA,87019
+Minnesota,2000,1150,NA,NA
+Minnesota,2000,970,NA,NA
+Minnesota,2001,1100,NA,NA
+Minnesota,2001,1250,NA,NA
+Minnesota,2002,1120,NA,NA
+Minnesota,2002,1360,NA,NA
+Minnesota,2003,1390,NA,NA
+Minnesota,2003,1920,NA,NA
+Minnesota,2004,1420,NA,NA
+Minnesota,2004,2430,NA,NA
+Minnesota,2005,1550,NA,NA
+Minnesota,2005,2490,NA,NA
+Minnesota,2006,1860,NA,NA
+Minnesota,2006,2070,NA,NA
+Minnesota,2007,1800,NA,NA
+Minnesota,2007,2150,NA,NA
+Minnesota,2008,1820,NA,NA
+Minnesota,2008,2110,NA,NA
+Minnesota,2009,2060,NA,NA
+Minnesota,2009,2100,NA,NA
+Minnesota,2010,1980,NA,NA
+Minnesota,2010,2200,NA,NA
+Minnesota,2011,2280,NA,NA
+Minnesota,2011,2130,NA,NA
+Minnesota,2012,2180,NA,NA
+Minnesota,2012,2180,NA,NA
+Minnesota,2013,2870,NA,NA
+Minnesota,2013,1760,NA,NA
+Minnesota,2014,2060,NA,NA
+Minnesota,2014,2100,NA,NA
+Minnesota,2015,2060,NA,NA
+Minnesota,2015,2100,NA,NA
+Minnesota,2016,1800,NA,NA
+Minnesota,2016,2150,NA,NA
+Mississippi,2012,NA,3439,43589
+Mississippi,2013,NA,320,48318
+Mississippi,2014,NA,379,51550
+Mississippi,2015,NA,386,58475
+Mississippi,2016,NA,311,62914
+Mississippi,2017,NA,374,72996
+Mississippi,2011,NA,NA,39407
+Mississippi,2018,NA,NA,78660
+Mississippi,2000,820,NA,NA
+Mississippi,2000,840,NA,NA
+Mississippi,2001,580,NA,NA
+Mississippi,2001,1160,NA,NA
+Mississippi,2002,440,NA,NA
+Mississippi,2002,560,NA,NA
+Mississippi,2003,610,NA,NA
+Mississippi,2003,650,NA,NA
+Mississippi,2004,440,NA,NA
+Mississippi,2004,760,NA,NA
+Mississippi,2005,510,NA,NA
+Mississippi,2005,940,NA,NA
+Mississippi,2006,590,NA,NA
+Mississippi,2006,1000,NA,NA
+Mississippi,2007,390,NA,NA
+Mississippi,2007,850,NA,NA
+Mississippi,2008,520,NA,NA
+Mississippi,2008,860,NA,NA
+Mississippi,2009,670,NA,NA
+Mississippi,2009,970,NA,NA
+Mississippi,2010,720,NA,NA
+Mississippi,2010,920,NA,NA
+Mississippi,2011,680,NA,NA
+Mississippi,2011,980,NA,NA
+Mississippi,2012,530,NA,NA
+Mississippi,2012,700,NA,NA
+Mississippi,2013,680,NA,NA
+Mississippi,2013,830,NA,NA
+Mississippi,2014,670,NA,NA
+Mississippi,2014,970,NA,NA
+Mississippi,2015,670,NA,NA
+Mississippi,2015,970,NA,NA
+Mississippi,2016,390,NA,NA
+Mississippi,2016,850,NA,NA
+Missouri,2012,NA,4662,15724
+Missouri,2013,NA,302,18705
+Missouri,2014,NA,386,20389
+Missouri,2015,NA,313,24081
+Missouri,2016,NA,381,27408
+Missouri,2017,NA,467,35494
+Missouri,2011,NA,NA,13575
+Missouri,2018,NA,NA,39331
+Missouri,2000,720,NA,NA
+Missouri,2000,2060,NA,NA
+Missouri,2001,860,NA,NA
+Missouri,2001,1850,NA,NA
+Missouri,2002,1020,NA,NA
+Missouri,2002,2090,NA,NA
+Missouri,2003,1070,NA,NA
+Missouri,2003,2420,NA,NA
+Missouri,2004,880,NA,NA
+Missouri,2004,2710,NA,NA
+Missouri,2005,1000,NA,NA
+Missouri,2005,2710,NA,NA
+Missouri,2006,980,NA,NA
+Missouri,2006,2400,NA,NA
+Missouri,2007,1400,NA,NA
+Missouri,2007,2620,NA,NA
+Missouri,2008,1320,NA,NA
+Missouri,2008,2970,NA,NA
+Missouri,2009,1090,NA,NA
+Missouri,2009,3550,NA,NA
+Missouri,2010,880,NA,NA
+Missouri,2010,3540,NA,NA
+Missouri,2011,1140,NA,NA
+Missouri,2011,3520,NA,NA
+Missouri,2012,1380,NA,NA
+Missouri,2012,2950,NA,NA
+Missouri,2013,1390,NA,NA
+Missouri,2013,2810,NA,NA
+Missouri,2014,1090,NA,NA
+Missouri,2014,3550,NA,NA
+Missouri,2015,1090,NA,NA
+Missouri,2015,3550,NA,NA
+Missouri,2016,1400,NA,NA
+Missouri,2016,2620,NA,NA
+Montana,2012,NA,911,8293
+Montana,2013,NA,302,10364
+Montana,2014,NA,213,11461
+Montana,2015,NA,118,12798
+Montana,2016,NA,117,15900
+Montana,2017,NA,176,22133
+Montana,2011,NA,NA,7252
+Montana,2018,NA,NA,20326
+Montana,2000,180,NA,NA
+Montana,2000,160,NA,NA
+Montana,2001,150,NA,NA
+Montana,2001,260,NA,NA
+Montana,2002,200,NA,NA
+Montana,2002,460,NA,NA
+Montana,2003,270,NA,NA
+Montana,2003,330,NA,NA
+Montana,2004,290,NA,NA
+Montana,2004,360,NA,NA
+Montana,2005,280,NA,NA
+Montana,2005,310,NA,NA
+Montana,2006,320,NA,NA
+Montana,2006,340,NA,NA
+Montana,2007,330,NA,NA
+Montana,2007,440,NA,NA
+Montana,2008,540,NA,NA
+Montana,2008,450,NA,NA
+Montana,2009,510,NA,NA
+Montana,2009,410,NA,NA
+Montana,2010,530,NA,NA
+Montana,2010,280,NA,NA
+Montana,2011,750,NA,NA
+Montana,2011,450,NA,NA
+Montana,2012,710,NA,NA
+Montana,2012,530,NA,NA
+Montana,2013,1000,NA,NA
+Montana,2013,580,NA,NA
+Montana,2014,510,NA,NA
+Montana,2014,410,NA,NA
+Montana,2015,510,NA,NA
+Montana,2015,410,NA,NA
+Montana,2016,330,NA,NA
+Montana,2016,440,NA,NA
+Nebraska,2000,270,NA,NA
+Nebraska,2000,480,NA,NA
+Nebraska,2001,470,NA,NA
+Nebraska,2001,470,NA,NA
+Nebraska,2002,530,NA,NA
+Nebraska,2002,610,NA,NA
+Nebraska,2003,690,NA,NA
+Nebraska,2003,670,NA,NA
+Nebraska,2004,610,NA,NA
+Nebraska,2004,880,NA,NA
+Nebraska,2005,810,NA,NA
+Nebraska,2005,1000,NA,NA
+Nebraska,2006,660,NA,NA
+Nebraska,2006,1050,NA,NA
+Nebraska,2007,820,NA,NA
+Nebraska,2007,950,NA,NA
+Nebraska,2008,740,NA,NA
+Nebraska,2008,780,NA,NA
+Nebraska,2009,780,NA,NA
+Nebraska,2009,700,NA,NA
+Nebraska,2010,750,NA,NA
+Nebraska,2010,740,NA,NA
+Nebraska,2011,760,NA,NA
+Nebraska,2011,650,NA,NA
+Nebraska,2012,910,NA,NA
+Nebraska,2012,610,NA,NA
+Nebraska,2013,1050,NA,NA
+Nebraska,2013,420,NA,NA
+Nebraska,2014,780,NA,NA
+Nebraska,2014,700,NA,NA
+Nebraska,2015,780,NA,NA
+Nebraska,2015,700,NA,NA
+Nebraska,2016,820,NA,NA
+Nebraska,2016,950,NA,NA
+Nebraska,1999,NA,NA,NA
+Nebraska,2000,NA,NA,NA
+Nebraska,2001,NA,NA,NA
+Nebraska,2002,NA,NA,NA
+Nebraska,2003,NA,NA,NA
+Nebraska,2004,NA,NA,NA
+Nebraska,2005,NA,NA,NA
+Nebraska,2006,NA,NA,NA
+Nebraska,2007,NA,NA,NA
+Nebraska,2008,NA,NA,NA
+Nebraska,2009,NA,NA,NA
+Nebraska,2010,NA,NA,NA
+Nebraska,2011,NA,NA,NA
+Nebraska,2012,NA,NA,NA
+Nebraska,2013,NA,NA,NA
+Nebraska,2014,NA,NA,NA
+Nebraska,2015,NA,NA,NA
+Nebraska,2016,NA,NA,NA
+Nebraska,2005,NA,NA,NA
+Nebraska,2006,NA,NA,NA
+Nebraska,2007,NA,NA,NA
+Nebraska,2008,NA,NA,NA
+Nebraska,2009,NA,NA,NA
+Nebraska,2010,NA,NA,NA
+Nebraska,2011,NA,NA,NA
+Nebraska,2012,NA,NA,NA
+Nebraska,2013,NA,NA,NA
+Nebraska,2014,NA,NA,NA
+Nebraska,2015,NA,NA,NA
+Nebraska,2016,NA,NA,NA
+Nebraska,2012,NA,670,95060
+Nebraska,2013,NA,134,105506
+Nebraska,2014,NA,12,109388
+Nebraska,2015,NA,22,122288
+Nebraska,2016,NA,204,131539
+Nebraska,2017,NA,67,152238
+Nebraska,2011,NA,NA,86827
+Nebraska,2018,NA,NA,165170
+Nevada,2000,280,NA,NA
+Nevada,2000,120,NA,NA
+Nevada,2001,350,NA,NA
+Nevada,2001,220,NA,NA
+Nevada,2002,380,NA,NA
+Nevada,2002,220,NA,NA
+Nevada,2003,450,NA,NA
+Nevada,2003,280,NA,NA
+Nevada,2004,440,NA,NA
+Nevada,2004,250,NA,NA
+Nevada,2005,410,NA,NA
+Nevada,2005,260,NA,NA
+Nevada,2006,380,NA,NA
+Nevada,2006,290,NA,NA
+Nevada,2007,490,NA,NA
+Nevada,2007,320,NA,NA
+Nevada,2008,390,NA,NA
+Nevada,2008,340,NA,NA
+Nevada,2009,440,NA,NA
+Nevada,2009,400,NA,NA
+Nevada,2010,490,NA,NA
+Nevada,2010,410,NA,NA
+Nevada,2011,480,NA,NA
+Nevada,2011,380,NA,NA
+Nevada,2012,530,NA,NA
+Nevada,2012,330,NA,NA
+Nevada,2013,640,NA,NA
+Nevada,2013,370,NA,NA
+Nevada,2014,440,NA,NA
+Nevada,2014,400,NA,NA
+Nevada,2015,440,NA,NA
+Nevada,2015,400,NA,NA
+Nevada,2016,490,NA,NA
+Nevada,2016,320,NA,NA
+Nevada,1999,NA,NA,NA
+Nevada,2000,NA,NA,NA
+Nevada,2001,NA,NA,NA
+Nevada,2002,NA,NA,NA
+Nevada,2003,NA,NA,NA
+Nevada,2004,NA,NA,NA
+Nevada,2005,NA,NA,NA
+Nevada,2006,NA,NA,NA
+Nevada,2007,NA,NA,NA
+Nevada,2008,NA,NA,NA
+Nevada,2009,NA,NA,NA
+Nevada,2010,NA,NA,NA
+Nevada,2011,NA,NA,NA
+Nevada,2012,NA,NA,NA
+Nevada,2013,NA,NA,NA
+Nevada,2014,NA,NA,NA
+Nevada,2015,NA,NA,NA
+Nevada,2016,NA,NA,NA
+Nevada,2005,NA,NA,NA
+Nevada,2006,NA,NA,NA
+Nevada,2007,NA,NA,NA
+Nevada,2008,NA,NA,NA
+Nevada,2009,NA,NA,NA
+Nevada,2010,NA,NA,NA
+Nevada,2011,NA,NA,NA
+Nevada,2012,NA,NA,NA
+Nevada,2013,NA,NA,NA
+Nevada,2014,NA,NA,NA
+Nevada,2015,NA,NA,NA
+Nevada,2016,NA,NA,NA
+Nevada,2012,NA,2288,5581
+Nevada,2013,NA,33,6285
+Nevada,2014,NA,62,6863
+Nevada,2015,NA,148,8122
+Nevada,2016,NA,203,9460
+Nevada,2017,NA,476,13272
+Nevada,2011,NA,NA,4627
+Nevada,2018,NA,NA,15440
+New Hampshire,2000,240,NA,NA
+New Hampshire,2000,250,NA,NA
+New Hampshire,2001,330,NA,NA
+New Hampshire,2001,230,NA,NA
+New Hampshire,2002,330,NA,NA
+New Hampshire,2002,280,NA,NA
+New Hampshire,2003,560,NA,NA
+New Hampshire,2003,400,NA,NA
+New Hampshire,2004,590,NA,NA
+New Hampshire,2004,330,NA,NA
+New Hampshire,2005,500,NA,NA
+New Hampshire,2005,260,NA,NA
+New Hampshire,2006,420,NA,NA
+New Hampshire,2006,360,NA,NA
+New Hampshire,2007,390,NA,NA
+New Hampshire,2007,410,NA,NA
+New Hampshire,2008,500,NA,NA
+New Hampshire,2008,390,NA,NA
+New Hampshire,2009,690,NA,NA
+New Hampshire,2009,500,NA,NA
+New Hampshire,2010,640,NA,NA
+New Hampshire,2010,380,NA,NA
+New Hampshire,2011,580,NA,NA
+New Hampshire,2011,380,NA,NA
+New Hampshire,2012,580,NA,NA
+New Hampshire,2012,240,NA,NA
+New Hampshire,2013,510,NA,NA
+New Hampshire,2013,310,NA,NA
+New Hampshire,2014,690,NA,NA
+New Hampshire,2014,500,NA,NA
+New Hampshire,2015,690,NA,NA
+New Hampshire,2015,500,NA,NA
+New Hampshire,2016,390,NA,NA
+New Hampshire,2016,410,NA,NA
+New Hampshire,1999,NA,NA,NA
+New Hampshire,2000,NA,NA,NA
+New Hampshire,2001,NA,NA,NA
+New Hampshire,2002,NA,NA,NA
+New Hampshire,2003,NA,NA,NA
+New Hampshire,2004,NA,NA,NA
+New Hampshire,2005,NA,NA,NA
+New Hampshire,2006,NA,NA,NA
+New Hampshire,2007,NA,NA,NA
+New Hampshire,2008,NA,NA,NA
+New Hampshire,2009,NA,NA,NA
+New Hampshire,2010,NA,NA,NA
+New Hampshire,2011,NA,NA,NA
+New Hampshire,2012,NA,NA,NA
+New Hampshire,2013,NA,NA,NA
+New Hampshire,2014,NA,NA,NA
+New Hampshire,2015,NA,NA,NA
+New Hampshire,2016,NA,NA,NA
+New Hampshire,2005,NA,NA,NA
+New Hampshire,2006,NA,NA,NA
+New Hampshire,2007,NA,NA,NA
+New Hampshire,2008,NA,NA,NA
+New Hampshire,2009,NA,NA,NA
+New Hampshire,2010,NA,NA,NA
+New Hampshire,2011,NA,NA,NA
+New Hampshire,2012,NA,NA,NA
+New Hampshire,2013,NA,NA,NA
+New Hampshire,2014,NA,NA,NA
+New Hampshire,2015,NA,NA,NA
+New Hampshire,2016,NA,NA,NA
+New Hampshire,2012,NA,435,11770
+New Hampshire,2013,NA,269,13096
+New Hampshire,2014,NA,151,13864
+New Hampshire,2015,NA,33,15956
+New Hampshire,2016,NA,154,18011
+New Hampshire,2017,NA,80,22234
+New Hampshire,2011,NA,NA,10660
+New Hampshire,2018,NA,NA,25092
+New Jersey,2000,1200,NA,NA
+New Jersey,2000,2450,NA,NA
+New Jersey,2001,1740,NA,NA
+New Jersey,2001,2530,NA,NA
+New Jersey,2002,1940,NA,NA
+New Jersey,2002,2720,NA,NA
+New Jersey,2003,2260,NA,NA
+New Jersey,2003,2950,NA,NA
+New Jersey,2004,2610,NA,NA
+New Jersey,2004,3140,NA,NA
+New Jersey,2005,2610,NA,NA
+New Jersey,2005,2600,NA,NA
+New Jersey,2006,3390,NA,NA
+New Jersey,2006,2270,NA,NA
+New Jersey,2007,3390,NA,NA
+New Jersey,2007,2310,NA,NA
+New Jersey,2008,3220,NA,NA
+New Jersey,2008,1840,NA,NA
+New Jersey,2009,3090,NA,NA
+New Jersey,2009,1570,NA,NA
+New Jersey,2010,3780,NA,NA
+New Jersey,2010,1430,NA,NA
+New Jersey,2011,4320,NA,NA
+New Jersey,2011,1760,NA,NA
+New Jersey,2012,4720,NA,NA
+New Jersey,2012,1840,NA,NA
+New Jersey,2013,4150,NA,NA
+New Jersey,2013,2320,NA,NA
+New Jersey,2014,3090,NA,NA
+New Jersey,2014,1570,NA,NA
+New Jersey,2015,3090,NA,NA
+New Jersey,2015,1570,NA,NA
+New Jersey,2016,3390,NA,NA
+New Jersey,2016,2310,NA,NA
+New Jersey,2012,NA,1604,18376
+New Jersey,2013,NA,23,18089
+New Jersey,2014,NA,2,19284
+New Jersey,2015,NA,17,23061
+New Jersey,2016,NA,10,29821
+New Jersey,2017,NA,5,64135
+New Jersey,2011,NA,NA,12855
+New Jersey,2018,NA,NA,59140
+New Mexico,2000,190,NA,NA
+New Mexico,2000,380,NA,NA
+New Mexico,2001,270,NA,NA
+New Mexico,2001,410,NA,NA
+New Mexico,2002,280,NA,NA
+New Mexico,2002,400,NA,NA
+New Mexico,2003,450,NA,NA
+New Mexico,2003,**,NA,NA
+New Mexico,2004,450,NA,NA
+New Mexico,2004,1220,NA,NA
+New Mexico,2005,500,NA,NA
+New Mexico,2005,1210,NA,NA
+New Mexico,2006,520,NA,NA
+New Mexico,2006,1390,NA,NA
+New Mexico,2007,920,NA,NA
+New Mexico,2007,1830,NA,NA
+New Mexico,2008,960,NA,NA
+New Mexico,2008,1920,NA,NA
+New Mexico,2009,880,NA,NA
+New Mexico,2009,1460,NA,NA
+New Mexico,2010,950,NA,NA
+New Mexico,2010,1810,NA,NA
+New Mexico,2011,670,NA,NA
+New Mexico,2011,1190,NA,NA
+New Mexico,2012,720,NA,NA
+New Mexico,2012,1230,NA,NA
+New Mexico,2013,870,NA,NA
+New Mexico,2013,770,NA,NA
+New Mexico,2014,880,NA,NA
+New Mexico,2014,1460,NA,NA
+New Mexico,2015,880,NA,NA
+New Mexico,2015,1460,NA,NA
+New Mexico,2016,920,NA,NA
+New Mexico,2016,1830,NA,NA
+New Mexico,2012,NA,2198,48989
+New Mexico,2013,NA,25,50712
+New Mexico,2014,NA,60,51670
+New Mexico,2015,NA,209,54612
+New Mexico,2016,NA,146,55672
+New Mexico,2017,NA,122,57507
+New Mexico,2011,NA,NA,46605
+New Mexico,2018,NA,NA,59629
+New York,2000,4050,NA,NA
+New York,2000,5510,NA,NA
+New York,2001,4260,NA,NA
+New York,2001,4610,NA,NA
+New York,2002,4170,NA,NA
+New York,2002,6280,NA,NA
+New York,2003,3960,NA,NA
+New York,2003,7080,NA,NA
+New York,2004,5760,NA,NA
+New York,2004,8600,NA,NA
+New York,2005,5850,NA,NA
+New York,2005,9110,NA,NA
+New York,2006,6800,NA,NA
+New York,2006,9870,NA,NA
+New York,2007,7060,NA,NA
+New York,2007,9760,NA,NA
+New York,2008,6980,NA,NA
+New York,2008,12080,NA,NA
+New York,2009,6150,NA,NA
+New York,2009,11030,NA,NA
+New York,2010,6480,NA,NA
+New York,2010,10880,NA,NA
+New York,2011,6070,NA,NA
+New York,2011,10010,NA,NA
+New York,2012,5970,NA,NA
+New York,2012,10430,NA,NA
+New York,2013,5540,NA,NA
+New York,2013,10340,NA,NA
+New York,2014,6150,NA,NA
+New York,2014,11030,NA,NA
+New York,2015,6150,NA,NA
+New York,2015,11030,NA,NA
+New York,2016,7060,NA,NA
+New York,2016,9760,NA,NA
+New York,2012,NA,2839,69371
+New York,2013,NA,29,78495
+New York,2014,NA,4017,84471
+New York,2015,NA,312,89220
+New York,2016,NA,191,92251
+New York,2017,NA,629,97580
+New York,2011,NA,NA,59789
+New York,2018,NA,NA,101182
+North Carolina,2000,1460,NA,NA
+North Carolina,2000,2510,NA,NA
+North Carolina,2001,1540,NA,NA
+North Carolina,2001,2640,NA,NA
+North Carolina,2002,1640,NA,NA
+North Carolina,2002,3000,NA,NA
+North Carolina,2003,1900,NA,NA
+North Carolina,2003,3170,NA,NA
+North Carolina,2004,1860,NA,NA
+North Carolina,2004,3890,NA,NA
+North Carolina,2005,1800,NA,NA
+North Carolina,2005,3800,NA,NA
+North Carolina,2006,1680,NA,NA
+North Carolina,2006,3740,NA,NA
+North Carolina,2007,2150,NA,NA
+North Carolina,2007,3640,NA,NA
+North Carolina,2008,2960,NA,NA
+North Carolina,2008,4270,NA,NA
+North Carolina,2009,3640,NA,NA
+North Carolina,2009,4140,NA,NA
+North Carolina,2010,3760,NA,NA
+North Carolina,2010,4310,NA,NA
+North Carolina,2011,3570,NA,NA
+North Carolina,2011,4360,NA,NA
+North Carolina,2012,3710,NA,NA
+North Carolina,2012,4150,NA,NA
+North Carolina,2013,3770,NA,NA
+North Carolina,2013,3740,NA,NA
+North Carolina,2014,3640,NA,NA
+North Carolina,2014,4140,NA,NA
+North Carolina,2015,3640,NA,NA
+North Carolina,2015,4140,NA,NA
+North Carolina,2016,2150,NA,NA
+North Carolina,2016,3640,NA,NA
+North Carolina,2012,NA,9320,48359
+North Carolina,2013,NA,292,51524
+North Carolina,2014,NA,548,54436
+North Carolina,2015,NA,532,64090
+North Carolina,2016,NA,680,67785
+North Carolina,2017,NA,614,76888
+North Carolina,2011,NA,NA,40008
+North Carolina,2018,NA,NA,87148
+North Dakota,2000,80,NA,NA
+North Dakota,2001,50,NA,NA
+North Dakota,2001,300,NA,NA
+North Dakota,2002,**,NA,NA
+North Dakota,2002,300,NA,NA
+North Dakota,2003,190,NA,NA
+North Dakota,2003,270,NA,NA
+North Dakota,2004,230,NA,NA
+North Dakota,2004,350,NA,NA
+North Dakota,2005,100,NA,NA
+North Dakota,2005,300,NA,NA
+North Dakota,2006,**,NA,NA
+North Dakota,2006,310,NA,NA
+North Dakota,2007,30,NA,NA
+North Dakota,2007,230,NA,NA
+North Dakota,2008,390,NA,NA
+North Dakota,2009,380,NA,NA
+North Dakota,2010,60,NA,NA
+North Dakota,2010,340,NA,NA
+North Dakota,2011,100,NA,NA
+North Dakota,2011,300,NA,NA
+North Dakota,2012,110,NA,NA
+North Dakota,2012,260,NA,NA
+North Dakota,2013,80,NA,NA
+North Dakota,2013,250,NA,NA
+North Dakota,2014,380,NA,NA
+North Dakota,2015,380,NA,NA
+North Dakota,2016,30,NA,NA
+North Dakota,2016,230,NA,NA
+North Dakota,2012,NA,273,55105
+North Dakota,2013,NA,12,61332
+North Dakota,2014,NA,75,64353
+North Dakota,2015,NA,45,69680
+North Dakota,2016,NA,47,70406
+North Dakota,2017,NA,88,76207
+North Dakota,2011,NA,NA,51300
+North Dakota,2018,NA,NA,78141
+Ohio,2000,1800,NA,NA
+Ohio,2000,5490,NA,NA
+Ohio,2001,2040,NA,NA
+Ohio,2001,5700,NA,NA
+Ohio,2002,2320,NA,NA
+Ohio,2002,5420,NA,NA
+Ohio,2003,2620,NA,NA
+Ohio,2003,5750,NA,NA
+Ohio,2004,2780,NA,NA
+Ohio,2004,5840,NA,NA
+Ohio,2005,2630,NA,NA
+Ohio,2005,5350,NA,NA
+Ohio,2006,2610,NA,NA
+Ohio,2006,5040,NA,NA
+Ohio,2007,2880,NA,NA
+Ohio,2007,4610,NA,NA
+Ohio,2008,3600,NA,NA
+Ohio,2008,4720,NA,NA
+Ohio,2009,3910,NA,NA
+Ohio,2009,4920,NA,NA
+Ohio,2010,4050,NA,NA
+Ohio,2010,5790,NA,NA
+Ohio,2011,3900,NA,NA
+Ohio,2011,6350,NA,NA
+Ohio,2012,3730,NA,NA
+Ohio,2012,6120,NA,NA
+Ohio,2013,3610,NA,NA
+Ohio,2013,6050,NA,NA
+Ohio,2014,3910,NA,NA
+Ohio,2014,4920,NA,NA
+Ohio,2015,3910,NA,NA
+Ohio,2015,4920,NA,NA
+Ohio,2016,2880,NA,NA
+Ohio,2016,4610,NA,NA
+Ohio,2012,NA,6860,108574
+Ohio,2013,NA,372,128523
+Ohio,2014,NA,313,131990
+Ohio,2015,NA,73,135267
+Ohio,2016,NA,985,143234
+Ohio,2017,NA,501,173405
+Ohio,2011,NA,NA,98616
+Ohio,2018,NA,NA,173315
+Oklahoma,2000,1230,NA,NA
+Oklahoma,2000,1060,NA,NA
+Oklahoma,2001,1020,NA,NA
+Oklahoma,2001,720,NA,NA
+Oklahoma,2002,990,NA,NA
+Oklahoma,2002,850,NA,NA
+Oklahoma,2003,1470,NA,NA
+Oklahoma,2003,910,NA,NA
+Oklahoma,2004,1310,NA,NA
+Oklahoma,2004,800,NA,NA
+Oklahoma,2005,1320,NA,NA
+Oklahoma,2005,960,NA,NA
+Oklahoma,2006,1420,NA,NA
+Oklahoma,2006,810,NA,NA
+Oklahoma,2007,980,NA,NA
+Oklahoma,2007,650,NA,NA
+Oklahoma,2008,1090,NA,NA
+Oklahoma,2008,970,NA,NA
+Oklahoma,2009,1210,NA,NA
+Oklahoma,2009,980,NA,NA
+Oklahoma,2010,1340,NA,NA
+Oklahoma,2010,1100,NA,NA
+Oklahoma,2011,1320,NA,NA
+Oklahoma,2011,1240,NA,NA
+Oklahoma,2012,1190,NA,NA
+Oklahoma,2012,1270,NA,NA
+Oklahoma,2013,1360,NA,NA
+Oklahoma,2013,1150,NA,NA
+Oklahoma,2014,1210,NA,NA
+Oklahoma,2014,980,NA,NA
+Oklahoma,2015,1210,NA,NA
+Oklahoma,2015,980,NA,NA
+Oklahoma,2016,980,NA,NA
+Oklahoma,2016,650,NA,NA
+Oklahoma,2012,NA,4695,37307
+Oklahoma,2013,NA,57,47497
+Oklahoma,2014,NA,211,47419
+Oklahoma,2015,NA,266,58213
+Oklahoma,2016,NA,187,64063
+Oklahoma,2017,NA,285,71269
+Oklahoma,2011,NA,NA,29522
+Oklahoma,2018,NA,NA,74615
+Oregon,2000,1000,NA,NA
+Oregon,2000,1110,NA,NA
+Oregon,2001,1200,NA,NA
+Oregon,2001,960,NA,NA
+Oregon,2002,1640,NA,NA
+Oregon,2002,1320,NA,NA
+Oregon,2003,2080,NA,NA
+Oregon,2003,1730,NA,NA
+Oregon,2004,2430,NA,NA
+Oregon,2004,2110,NA,NA
+Oregon,2005,**,NA,NA
+Oregon,2005,2310,NA,NA
+Oregon,2006,1650,NA,NA
+Oregon,2006,2440,NA,NA
+Oregon,2007,1500,NA,NA
+Oregon,2007,1810,NA,NA
+Oregon,2008,1680,NA,NA
+Oregon,2008,1790,NA,NA
+Oregon,2009,1740,NA,NA
+Oregon,2009,2050,NA,NA
+Oregon,2010,2080,NA,NA
+Oregon,2010,2110,NA,NA
+Oregon,2011,2350,NA,NA
+Oregon,2011,2160,NA,NA
+Oregon,2012,2560,NA,NA
+Oregon,2012,2030,NA,NA
+Oregon,2013,2520,NA,NA
+Oregon,2013,1940,NA,NA
+Oregon,2014,1740,NA,NA
+Oregon,2014,2050,NA,NA
+Oregon,2015,1740,NA,NA
+Oregon,2015,2050,NA,NA
+Oregon,2016,1500,NA,NA
+Oregon,2016,1810,NA,NA
+Oregon,2012,NA,2491,38917
+Oregon,2013,NA,37,42857
+Oregon,2014,NA,74,44811
+Oregon,2015,NA,230,48751
+Oregon,2016,NA,445,51923
+Oregon,2017,NA,938,61383
+Oregon,2011,NA,NA,35718
+Oregon,2018,NA,NA,66346
+Pennsylvania,2000,5680,NA,NA
+Pennsylvania,2000,4880,NA,NA
+Pennsylvania,2001,5950,NA,NA
+Pennsylvania,2001,6170,NA,NA
+Pennsylvania,2002,7560,NA,NA
+Pennsylvania,2002,6150,NA,NA
+Pennsylvania,2003,8690,NA,NA
+Pennsylvania,2003,7910,NA,NA
+Pennsylvania,2004,10440,NA,NA
+Pennsylvania,2004,10630,NA,NA
+Pennsylvania,2005,10800,NA,NA
+Pennsylvania,2005,11890,NA,NA
+Pennsylvania,2006,12050,NA,NA
+Pennsylvania,2006,9620,NA,NA
+Pennsylvania,2007,13140,NA,NA
+Pennsylvania,2007,8750,NA,NA
+Pennsylvania,2008,13870,NA,NA
+Pennsylvania,2008,8400,NA,NA
+Pennsylvania,2009,15340,NA,NA
+Pennsylvania,2009,8790,NA,NA
+Pennsylvania,2010,15740,NA,NA
+Pennsylvania,2010,9380,NA,NA
+Pennsylvania,2011,15380,NA,NA
+Pennsylvania,2011,9230,NA,NA
+Pennsylvania,2012,13750,NA,NA
+Pennsylvania,2012,9610,NA,NA
+Pennsylvania,2013,12260,NA,NA
+Pennsylvania,2013,9800,NA,NA
+Pennsylvania,2014,15340,NA,NA
+Pennsylvania,2014,8790,NA,NA
+Pennsylvania,2015,15340,NA,NA
+Pennsylvania,2015,8790,NA,NA
+Pennsylvania,2016,13140,NA,NA
+Pennsylvania,2016,8750,NA,NA
+Pennsylvania,2012,NA,6566,197217
+Pennsylvania,2013,NA,702,216370
+Pennsylvania,2014,NA,372,191189
+Pennsylvania,2015,NA,332,225377
+Pennsylvania,2016,NA,276,222722
+Pennsylvania,2017,NA,568,236377
+Pennsylvania,2011,NA,NA,146887
+Pennsylvania,2018,NA,NA,261765
+Puerto Rico,2000,40,NA,NA
+Puerto Rico,2000,100,NA,NA
+Puerto Rico,2001,480,NA,NA
+Puerto Rico,2001,100,NA,NA
+Puerto Rico,2002,510,NA,NA
+Puerto Rico,2002,90,NA,NA
+Puerto Rico,2003,100,NA,NA
+Puerto Rico,2004,420,NA,NA
+Puerto Rico,2004,100,NA,NA
+Puerto Rico,2005,410,NA,NA
+Puerto Rico,2005,110,NA,NA
+Puerto Rico,2006,30,NA,NA
+Puerto Rico,2006,200,NA,NA
+Puerto Rico,2007,60,NA,NA
+Puerto Rico,2007,190,NA,NA
+Puerto Rico,2008,70,NA,NA
+Puerto Rico,2008,230,NA,NA
+Puerto Rico,2009,70,NA,NA
+Puerto Rico,2009,280,NA,NA
+Puerto Rico,2010,90,NA,NA
+Puerto Rico,2010,300,NA,NA
+Puerto Rico,2011,120,NA,NA
+Puerto Rico,2011,350,NA,NA
+Puerto Rico,2012,110,NA,NA
+Puerto Rico,2012,320,NA,NA
+Puerto Rico,2013,150,NA,NA
+Puerto Rico,2013,310,NA,NA
+Puerto Rico,2014,70,NA,NA
+Puerto Rico,2014,280,NA,NA
+Puerto Rico,2015,70,NA,NA
+Puerto Rico,2015,280,NA,NA
+Puerto Rico,2016,60,NA,NA
+Puerto Rico,2016,190,NA,NA
+Rhode Island,2000,720,NA,NA
+Rhode Island,2000,360,NA,NA
+Rhode Island,2001,880,NA,NA
+Rhode Island,2001,410,NA,NA
+Rhode Island,2002,520,NA,NA
+Rhode Island,2002,**,NA,NA
+Rhode Island,2003,620,NA,NA
+Rhode Island,2003,890,NA,NA
+Rhode Island,2004,460,NA,NA
+Rhode Island,2004,**,NA,NA
+Rhode Island,2005,410,NA,NA
+Rhode Island,2005,1340,NA,NA
+Rhode Island,2006,420,NA,NA
+Rhode Island,2006,1240,NA,NA
+Rhode Island,2007,460,NA,NA
+Rhode Island,2007,1340,NA,NA
+Rhode Island,2008,510,NA,NA
+Rhode Island,2008,1480,NA,NA
+Rhode Island,2009,460,NA,NA
+Rhode Island,2009,1260,NA,NA
+Rhode Island,2010,520,NA,NA
+Rhode Island,2010,1120,NA,NA
+Rhode Island,2011,420,NA,NA
+Rhode Island,2011,760,NA,NA
+Rhode Island,2012,410,NA,NA
+Rhode Island,2012,590,NA,NA
+Rhode Island,2013,550,NA,NA
+Rhode Island,2013,500,NA,NA
+Rhode Island,2014,460,NA,NA
+Rhode Island,2014,1260,NA,NA
+Rhode Island,2015,460,NA,NA
+Rhode Island,2015,1260,NA,NA
+Rhode Island,2016,460,NA,NA
+Rhode Island,2016,1340,NA,NA
+Rhode Island,2012,NA,226,3592
+Rhode Island,2013,NA,56,3913
+Rhode Island,2014,NA,27,3973
+Rhode Island,2015,NA,2,4054
+Rhode Island,2016,NA,7,4128
+Rhode Island,2017,NA,7,4223
+Rhode Island,2011,NA,NA,3494
+Rhode Island,2018,NA,NA,4535
+South Carolina,2000,1890,NA,NA
+South Carolina,2000,840,NA,NA
+South Carolina,2001,1370,NA,NA
+South Carolina,2001,720,NA,NA
+South Carolina,2002,760,NA,NA
+South Carolina,2003,410,NA,NA
+South Carolina,2003,890,NA,NA
+South Carolina,2004,330,NA,NA
+South Carolina,2004,660,NA,NA
+South Carolina,2005,320,NA,NA
+South Carolina,2005,720,NA,NA
+South Carolina,2006,320,NA,NA
+South Carolina,2006,**,NA,NA
+South Carolina,2007,320,NA,NA
+South Carolina,2007,770,NA,NA
+South Carolina,2008,390,NA,NA
+South Carolina,2008,720,NA,NA
+South Carolina,2009,530,NA,NA
+South Carolina,2009,920,NA,NA
+South Carolina,2010,520,NA,NA
+South Carolina,2010,1120,NA,NA
+South Carolina,2011,480,NA,NA
+South Carolina,2011,1740,NA,NA
+South Carolina,2012,540,NA,NA
+South Carolina,2012,1590,NA,NA
+South Carolina,2013,500,NA,NA
+South Carolina,2014,530,NA,NA
+South Carolina,2014,920,NA,NA
+South Carolina,2015,530,NA,NA
+South Carolina,2015,920,NA,NA
+South Carolina,2016,320,NA,NA
+South Carolina,2016,770,NA,NA
+South Carolina,2012,NA,5839,45530
+South Carolina,2013,NA,260,50896
+South Carolina,2014,NA,417,55286
+South Carolina,2015,NA,570,68312
+South Carolina,2016,NA,775,73213
+South Carolina,2017,NA,559,105601
+South Carolina,2011,NA,NA,40754
+South Carolina,2018,NA,NA,101116
+South Dakota,2000,80,NA,NA
+South Dakota,2000,270,NA,NA
+South Dakota,2001,100,NA,NA
+South Dakota,2001,230,NA,NA
+South Dakota,2002,140,NA,NA
+South Dakota,2002,320,NA,NA
+South Dakota,2003,130,NA,NA
+South Dakota,2003,270,NA,NA
+South Dakota,2004,130,NA,NA
+South Dakota,2004,290,NA,NA
+South Dakota,2005,110,NA,NA
+South Dakota,2005,280,NA,NA
+South Dakota,2006,130,NA,NA
+South Dakota,2006,220,NA,NA
+South Dakota,2007,220,NA,NA
+South Dakota,2007,210,NA,NA
+South Dakota,2008,250,NA,NA
+South Dakota,2008,280,NA,NA
+South Dakota,2009,230,NA,NA
+South Dakota,2009,280,NA,NA
+South Dakota,2010,240,NA,NA
+South Dakota,2010,300,NA,NA
+South Dakota,2011,230,NA,NA
+South Dakota,2011,260,NA,NA
+South Dakota,2012,240,NA,NA
+South Dakota,2012,250,NA,NA
+South Dakota,2013,250,NA,NA
+South Dakota,2013,250,NA,NA
+South Dakota,2014,230,NA,NA
+South Dakota,2014,280,NA,NA
+South Dakota,2015,230,NA,NA
+South Dakota,2015,280,NA,NA
+South Dakota,2016,220,NA,NA
+South Dakota,2016,210,NA,NA
+South Dakota,2012,NA,314,7652
+South Dakota,2013,NA,88,9256
+South Dakota,2014,NA,36,9677
+South Dakota,2015,NA,32,11989
+South Dakota,2016,NA,67,13892
+South Dakota,2017,NA,147,21130
+South Dakota,2011,NA,NA,6636
+South Dakota,2018,NA,NA,22847
+Tennessee,2000,930,NA,NA
+Tennessee,2000,3040,NA,NA
+Tennessee,2001,1180,NA,NA
+Tennessee,2001,2880,NA,NA
+Tennessee,2002,1270,NA,NA
+Tennessee,2002,2230,NA,NA
+Tennessee,2003,2300,NA,NA
+Tennessee,2004,1910,NA,NA
+Tennessee,2004,2590,NA,NA
+Tennessee,2005,1870,NA,NA
+Tennessee,2005,2420,NA,NA
+Tennessee,2006,**,NA,NA
+Tennessee,2006,2600,NA,NA
+Tennessee,2007,2030,NA,NA
+Tennessee,2007,2250,NA,NA
+Tennessee,2008,2330,NA,NA
+Tennessee,2008,2430,NA,NA
+Tennessee,2009,2010,NA,NA
+Tennessee,2009,2260,NA,NA
+Tennessee,2010,2480,NA,NA
+Tennessee,2010,2180,NA,NA
+Tennessee,2011,2330,NA,NA
+Tennessee,2011,2110,NA,NA
+Tennessee,2012,2430,NA,NA
+Tennessee,2012,1590,NA,NA
+Tennessee,2013,2240,NA,NA
+Tennessee,2013,1360,NA,NA
+Tennessee,2014,2010,NA,NA
+Tennessee,2014,2260,NA,NA
+Tennessee,2015,2010,NA,NA
+Tennessee,2015,2260,NA,NA
+Tennessee,2016,2030,NA,NA
+Tennessee,2016,2250,NA,NA
+Tennessee,2012,NA,6101,65524
+Tennessee,2013,NA,338,71107
+Tennessee,2014,NA,295,73320
+Tennessee,2015,NA,397,80701
+Tennessee,2016,NA,616,87104
+Tennessee,2017,NA,559,99159
+Tennessee,2011,NA,NA,59437
+Tennessee,2018,NA,NA,107634
+Texas,2000,1870,NA,NA
+Texas,2000,3580,NA,NA
+Texas,2001,1710,NA,NA
+Texas,2001,4080,NA,NA
+Texas,2002,2370,NA,NA
+Texas,2002,3970,NA,NA
+Texas,2003,2350,NA,NA
+Texas,2003,3970,NA,NA
+Texas,2004,2300,NA,NA
+Texas,2004,4150,NA,NA
+Texas,2005,1930,NA,NA
+Texas,2005,3950,NA,NA
+Texas,2006,2320,NA,NA
+Texas,2006,3390,NA,NA
+Texas,2007,2800,NA,NA
+Texas,2007,3550,NA,NA
+Texas,2008,3830,NA,NA
+Texas,2008,9930,NA,NA
+Texas,2009,4310,NA,NA
+Texas,2009,3680,NA,NA
+Texas,2010,4040,NA,NA
+Texas,2010,3320,NA,NA
+Texas,2011,3920,NA,NA
+Texas,2011,3290,NA,NA
+Texas,2012,3990,NA,NA
+Texas,2012,3300,NA,NA
+Texas,2013,4220,NA,NA
+Texas,2013,**,NA,NA
+Texas,2014,4310,NA,NA
+Texas,2014,3680,NA,NA
+Texas,2015,4310,NA,NA
+Texas,2015,3680,NA,NA
+Texas,2016,2800,NA,NA
+Texas,2016,3550,NA,NA
+Texas,2012,NA,18874,258204
+Texas,2013,NA,694,303854
+Texas,2014,NA,2510,337309
+Texas,2015,NA,1024,403185
+Texas,2016,NA,1247,468581
+Texas,2017,NA,1751,588696
+Texas,2011,NA,NA,224200
+Texas,2018,NA,NA,637612
+Utah,2000,620,NA,NA
+Utah,2000,430,NA,NA
+Utah,2001,830,NA,NA
+Utah,2001,510,NA,NA
+Utah,2002,1000,NA,NA
+Utah,2002,850,NA,NA
+Utah,2003,910,NA,NA
+Utah,2003,1070,NA,NA
+Utah,2004,620,NA,NA
+Utah,2004,1470,NA,NA
+Utah,2005,**,NA,NA
+Utah,2005,1620,NA,NA
+Utah,2006,420,NA,NA
+Utah,2006,1450,NA,NA
+Utah,2007,460,NA,NA
+Utah,2007,1460,NA,NA
+Utah,2008,660,NA,NA
+Utah,2008,1030,NA,NA
+Utah,2009,630,NA,NA
+Utah,2009,1030,NA,NA
+Utah,2010,630,NA,NA
+Utah,2010,870,NA,NA
+Utah,2011,750,NA,NA
+Utah,2011,720,NA,NA
+Utah,2012,830,NA,NA
+Utah,2012,1010,NA,NA
+Utah,2013,930,NA,NA
+Utah,2013,1380,NA,NA
+Utah,2014,630,NA,NA
+Utah,2014,1030,NA,NA
+Utah,2015,630,NA,NA
+Utah,2015,1030,NA,NA
+Utah,2016,460,NA,NA
+Utah,2016,1460,NA,NA
+Utah,2012,NA,1185,29383
+Utah,2013,NA,227,34536
+Utah,2014,NA,102,37490
+Utah,2015,NA,36,77193
+Utah,2016,NA,46,54367
+Utah,2017,NA,348,72856
+Utah,2011,NA,NA,25986
+Utah,2018,NA,NA,83962
+Vermont,2000,320,NA,NA
+Vermont,2000,290,NA,NA
+Vermont,2001,590,NA,NA
+Vermont,2001,360,NA,NA
+Vermont,2002,570,NA,NA
+Vermont,2002,270,NA,NA
+Vermont,2003,580,NA,NA
+Vermont,2003,350,NA,NA
+Vermont,2004,290,NA,NA
+Vermont,2004,450,NA,NA
+Vermont,2005,370,NA,NA
+Vermont,2005,530,NA,NA
+Vermont,2006,320,NA,NA
+Vermont,2006,460,NA,NA
+Vermont,2007,320,NA,NA
+Vermont,2007,410,NA,NA
+Vermont,2008,180,NA,NA
+Vermont,2008,**,NA,NA
+Vermont,2009,210,NA,NA
+Vermont,2010,280,NA,NA
+Vermont,2010,850,NA,NA
+Vermont,2011,600,NA,NA
+Vermont,2011,920,NA,NA
+Vermont,2012,640,NA,NA
+Vermont,2012,830,NA,NA
+Vermont,2013,610,NA,NA
+Vermont,2013,840,NA,NA
+Vermont,2014,210,NA,NA
+Vermont,2015,210,NA,NA
+Vermont,2016,320,NA,NA
+Vermont,2016,410,NA,NA
+Vermont,1999,NA,NA,NA
+Vermont,2000,NA,NA,NA
+Vermont,2001,NA,NA,NA
+Vermont,2012,NA,298,223303
+Vermont,2013,NA,20,233718
+Vermont,2014,NA,93,248939
+Vermont,2015,NA,23,268234
+Vermont,2016,NA,12,281356
+Vermont,2017,NA,58,307822
+Vermont,2011,NA,NA,202170
+Vermont,2018,NA,NA,328010
+Virgin Islands,2000,30,NA,NA
+Virgin Islands,2001,50,NA,NA
+Virgin Islands,2002,50,NA,NA
+Virgin Islands,2003,60,NA,NA
+Virgin Islands,2004,50,NA,NA
+Virgin Islands,2005,60,NA,NA
+Virgin Islands,2005,40,NA,NA
+Virgin Islands,2006,40,NA,NA
+Virgin Islands,2011,50,NA,NA
+Virgin Islands,2012,40,NA,NA
+Virginia,2000,2300,NA,NA
+Virginia,2000,2730,NA,NA
+Virginia,2001,2620,NA,NA
+Virginia,2001,2730,NA,NA
+Virginia,2002,3160,NA,NA
+Virginia,2002,2800,NA,NA
+Virginia,2003,3070,NA,NA
+Virginia,2003,2220,NA,NA
+Virginia,2004,2810,NA,NA
+Virginia,2004,2960,NA,NA
+Virginia,2005,2510,NA,NA
+Virginia,2005,2950,NA,NA
+Virginia,2006,3050,NA,NA
+Virginia,2006,3450,NA,NA
+Virginia,2007,3550,NA,NA
+Virginia,2007,3510,NA,NA
+Virginia,2008,3940,NA,NA
+Virginia,2008,3700,NA,NA
+Virginia,2009,4910,NA,NA
+Virginia,2009,3150,NA,NA
+Virginia,2010,5640,NA,NA
+Virginia,2010,3080,NA,NA
+Virginia,2011,7390,NA,NA
+Virginia,2011,2950,NA,NA
+Virginia,2012,6920,NA,NA
+Virginia,2012,3110,NA,NA
+Virginia,2013,7890,NA,NA
+Virginia,2013,3430,NA,NA
+Virginia,2014,4910,NA,NA
+Virginia,2014,3150,NA,NA
+Virginia,2015,4910,NA,NA
+Virginia,2015,3150,NA,NA
+Virginia,2016,3550,NA,NA
+Virginia,2016,3510,NA,NA
+Virginia,2012,NA,4062,3803
+Virginia,2013,NA,1013,3904
+Virginia,2014,NA,182,4032
+Virginia,2015,NA,294,4199
+Virginia,2016,NA,424,4723
+Virginia,2017,NA,1015,5872
+Virginia,2011,NA,NA,3664
+Virginia,2018,NA,NA,6623
+Washington,2000,2270,NA,NA
+Washington,2000,3350,NA,NA
+Washington,2001,2290,NA,NA
+Washington,2001,5330,NA,NA
+Washington,2002,2800,NA,NA
+Washington,2002,4970,NA,NA
+Washington,2003,2870,NA,NA
+Washington,2003,4790,NA,NA
+Washington,2004,3130,NA,NA
+Washington,2005,2790,NA,NA
+Washington,2006,2880,NA,NA
+Washington,2006,2090,NA,NA
+Washington,2007,2850,NA,NA
+Washington,2007,2360,NA,NA
+Washington,2008,5300,NA,NA
+Washington,2008,2330,NA,NA
+Washington,2009,4140,NA,NA
+Washington,2009,2390,NA,NA
+Washington,2010,3640,NA,NA
+Washington,2010,1660,NA,NA
+Washington,2011,3590,NA,NA
+Washington,2011,1530,NA,NA
+Washington,2012,3230,NA,NA
+Washington,2012,1640,NA,NA
+Washington,2013,2810,NA,NA
+Washington,2013,2090,NA,NA
+Washington,2014,4140,NA,NA
+Washington,2014,2390,NA,NA
+Washington,2015,4140,NA,NA
+Washington,2015,2390,NA,NA
+Washington,2016,2850,NA,NA
+Washington,2016,2360,NA,NA
+Washington,2012,NA,5053,50550
+Washington,2013,NA,284,56951
+Washington,2014,NA,199,60009
+Washington,2015,NA,217,68427
+Washington,2016,NA,290,75957
+Washington,2017,NA,611,91835
+Washington,2011,NA,NA,44983
+Washington,2018,NA,NA,101534
+West Virginia,2000,510,NA,NA
+West Virginia,2000,1020,NA,NA
+West Virginia,2001,460,NA,NA
+West Virginia,2001,1060,NA,NA
+West Virginia,2002,390,NA,NA
+West Virginia,2002,1110,NA,NA
+West Virginia,2003,460,NA,NA
+West Virginia,2003,1050,NA,NA
+West Virginia,2004,500,NA,NA
+West Virginia,2004,1100,NA,NA
+West Virginia,2005,540,NA,NA
+West Virginia,2005,1110,NA,NA
+West Virginia,2006,710,NA,NA
+West Virginia,2006,1450,NA,NA
+West Virginia,2007,790,NA,NA
+West Virginia,2007,1400,NA,NA
+West Virginia,2008,780,NA,NA
+West Virginia,2008,1580,NA,NA
+West Virginia,2009,660,NA,NA
+West Virginia,2009,1150,NA,NA
+West Virginia,2010,580,NA,NA
+West Virginia,2010,1320,NA,NA
+West Virginia,2011,550,NA,NA
+West Virginia,2011,1100,NA,NA
+West Virginia,2012,550,NA,NA
+West Virginia,2012,870,NA,NA
+West Virginia,2013,590,NA,NA
+West Virginia,2013,450,NA,NA
+West Virginia,2014,660,NA,NA
+West Virginia,2014,1150,NA,NA
+West Virginia,2015,660,NA,NA
+West Virginia,2015,1150,NA,NA
+West Virginia,2016,790,NA,NA
+West Virginia,2016,1400,NA,NA
+West Virginia,1999,NA,NA,NA
+West Virginia,2000,NA,NA,NA
+West Virginia,2001,NA,NA,NA
+West Virginia,2002,NA,NA,NA
+West Virginia,2012,NA,1966,39389
+West Virginia,2013,NA,87,43059
+West Virginia,2014,NA,84,44705
+West Virginia,2015,NA,131,49722
+West Virginia,2016,NA,115,53697
+West Virginia,2017,NA,478,64878
+West Virginia,2011,NA,NA,35726
+West Virginia,2018,NA,NA,73250
+Wisconsin,2000,700,NA,NA
+Wisconsin,2000,1500,NA,NA
+Wisconsin,2001,730,NA,NA
+Wisconsin,2001,1320,NA,NA
+Wisconsin,2002,1030,NA,NA
+Wisconsin,2002,1760,NA,NA
+Wisconsin,2003,1050,NA,NA
+Wisconsin,2003,1660,NA,NA
+Wisconsin,2004,1140,NA,NA
+Wisconsin,2004,1740,NA,NA
+Wisconsin,2005,1340,NA,NA
+Wisconsin,2005,1920,NA,NA
+Wisconsin,2006,1090,NA,NA
+Wisconsin,2006,1830,NA,NA
+Wisconsin,2007,1390,NA,NA
+Wisconsin,2007,2400,NA,NA
+Wisconsin,2008,1410,NA,NA
+Wisconsin,2008,2640,NA,NA
+Wisconsin,2009,1780,NA,NA
+Wisconsin,2009,3170,NA,NA
+Wisconsin,2010,1870,NA,NA
+Wisconsin,2010,2510,NA,NA
+Wisconsin,2011,1810,NA,NA
+Wisconsin,2011,2270,NA,NA
+Wisconsin,2012,1860,NA,NA
+Wisconsin,2012,1750,NA,NA
+Wisconsin,2013,1940,NA,NA
+Wisconsin,2013,1610,NA,NA
+Wisconsin,2014,1780,NA,NA
+Wisconsin,2014,3170,NA,NA
+Wisconsin,2015,1780,NA,NA
+Wisconsin,2015,3170,NA,NA
+Wisconsin,2016,1390,NA,NA
+Wisconsin,2016,2400,NA,NA
+Wisconsin,2012,NA,1944,14742
+Wisconsin,2013,NA,198,16172
+Wisconsin,2014,NA,190,17429
+Wisconsin,2015,NA,310,23415
+Wisconsin,2016,NA,178,31540
+Wisconsin,2017,NA,327,35264
+Wisconsin,2011,NA,NA,11517
+Wisconsin,2018,NA,NA,37839
+Wyoming,2000,150,NA,NA
+Wyoming,2000,**,NA,NA
+Wyoming,2001,140,NA,NA
+Wyoming,2001,150,NA,NA
+Wyoming,2002,140,NA,NA
+Wyoming,2002,90,NA,NA
+Wyoming,2003,110,NA,NA
+Wyoming,2004,160,NA,NA
+Wyoming,2004,160,NA,NA
+Wyoming,2005,210,NA,NA
+Wyoming,2005,190,NA,NA
+Wyoming,2006,180,NA,NA
+Wyoming,2006,230,NA,NA
+Wyoming,2007,190,NA,NA
+Wyoming,2007,310,NA,NA
+Wyoming,2008,200,NA,NA
+Wyoming,2008,360,NA,NA
+Wyoming,2009,160,NA,NA
+Wyoming,2009,400,NA,NA
+Wyoming,2010,180,NA,NA
+Wyoming,2010,280,NA,NA
+Wyoming,2011,240,NA,NA
+Wyoming,2011,230,NA,NA
+Wyoming,2012,300,NA,NA
+Wyoming,2012,250,NA,NA
+Wyoming,2013,300,NA,NA
+Wyoming,2013,190,NA,NA
+Wyoming,2014,160,NA,NA
+Wyoming,2014,400,NA,NA
+Wyoming,2015,160,NA,NA
+Wyoming,2015,400,NA,NA
+Wyoming,2016,190,NA,NA
+Wyoming,2016,310,NA,NA
+Wyoming,1999,NA,NA,NA
+Wyoming,2012,NA,358,106513
+Wyoming,2013,NA,61,113375
+Wyoming,2014,NA,851,114052
+Wyoming,2015,NA,19,124176
+Wyoming,2016,NA,26,127787
+Wyoming,2017,NA,33,132806
+Wyoming,2011,NA,NA,98904
+Wyoming,2018,NA,NA,128083
