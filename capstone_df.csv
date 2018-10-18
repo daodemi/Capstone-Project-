@@ -1,0 +1,712 @@
+state,year,cluster,st,occ,total_employees,mean_salary,guns_stolen,guns_registered,median_state_income,total_victims
+Alabama,2003,2,AL,Psychiatrists,130,129830,NA,NA,NA,NA
+Alabama,2004,2,AL,Psychiatrists,160,137200,NA,NA,NA,NA
+Alabama,2005,2,AL,Psychiatrists,170,126870,NA,NA,46086,NA
+Alabama,2006,2,AL,Psychiatrists,140,147600,NA,NA,49207,NA
+Alabama,2007,2,AL,Psychiatrists,170,183560,NA,NA,50770,NA
+Alabama,2008,2,AL,Psychiatrists,190,197910,NA,NA,42666,NA
+Alabama,2009,2,AL,Psychiatrists,260,164210,NA,NA,41216,NA
+Alabama,2010,2,AL,Psychiatrists,230,154190,NA,NA,42081,NA
+Alabama,2011,2,AL,Psychiatrists,290,162120,NA,64027,52664,NA
+Alabama,2012,2,AL,Psychiatrists,220,203120,6084,76159,43160,NA
+Alabama,2013,2,AL,Psychiatrists,240,209880,882,94721,54362,NA
+Alabama,2014,2,AL,Psychiatrists,260,164210,582,96744,54724,NA
+Alabama,2015,2,AL,Psychiatrists,140,147600,481,114419,57160,NA
+Alabama,2016,2,AL,Psychiatrists,170,183560,1182,134687,56828,NA
+Alabama,2017,2,AL,Psychiatrists,190,197910,722,161641,NA,NA
+Alaska,2003,4,AK,Psychiatrists,40,156000,NA,NA,NA,NA
+Alaska,2007,4,AK,Psychiatrists,50,189350,NA,NA,72865,NA
+Alaska,2008,4,AK,Psychiatrists,50,195700,NA,NA,68460,NA
+Alaska,2009,4,AK,Psychiatrists,30,204140,NA,NA,64635,NA
+Alaska,2010,4,AK,Psychiatrists,40,192150,NA,NA,66521,NA
+Alaska,2011,4,AK,Psychiatrists,50,206920,NA,8018,79617,NA
+Alaska,2012,4,AK,Psychiatrists,60,209550,717,8939,69917,NA
+Alaska,2013,4,AK,Psychiatrists,60,212680,44,1e4,82870,NA
+Alaska,2014,4,AK,Psychiatrists,30,204140,89,11167,83714,NA
+Alaska,2016,4,AK,Psychiatrists,50,189350,58,13439,87365,NA
+Alaska,2017,4,AK,Psychiatrists,50,195700,57,15824,NA,NA
+Arizona,2003,2,AZ,Psychiatrists,240,152140,NA,NA,NA,NA
+Arizona,2004,2,AZ,Psychiatrists,240,151240,NA,NA,NA,NA
+Arizona,2005,2,AZ,Psychiatrists,260,149700,NA,NA,51458,NA
+Arizona,2006,2,AZ,Psychiatrists,140,164750,NA,NA,55709,NA
+Arizona,2007,2,AZ,Psychiatrists,150,164610,NA,NA,58627,NA
+Arizona,2008,2,AZ,Psychiatrists,200,187090,NA,NA,50958,NA
+Arizona,2009,2,AZ,Psychiatrists,260,179860,NA,NA,50296,NA
+Arizona,2010,2,AZ,Psychiatrists,280,159660,NA,NA,50448,NA
+Arizona,2011,2,AZ,Psychiatrists,380,165300,NA,55844,57477,19
+Arizona,2012,2,AZ,Psychiatrists,500,193470,5431,56706,50256,NA
+Arizona,2013,2,AZ,Psychiatrists,450,229740,718,59558,58897,NA
+Arizona,2014,2,AZ,Psychiatrists,260,179860,347,62527,59088,NA
+Arizona,2015,2,AZ,Psychiatrists,140,164750,208,65425,61042,NA
+Arizona,2016,2,AZ,Psychiatrists,150,164610,457,69500,61001,NA
+Arizona,2017,2,AZ,Psychiatrists,200,187090,609,79841,NA,NA
+Arkansas,2003,2,AR,Psychiatrists,190,130700,NA,NA,NA,NA
+Arkansas,2004,2,AR,Psychiatrists,90,139420,NA,NA,NA,NA
+Arkansas,2005,2,AR,Psychiatrists,80,142780,NA,NA,43134,NA
+Arkansas,2006,2,AR,Psychiatrists,60,145080,NA,NA,45093,NA
+Arkansas,2007,2,AR,Psychiatrists,60,160340,NA,NA,47021,NA
+Arkansas,2008,2,AR,Psychiatrists,120,141170,NA,NA,38815,NA
+Arkansas,2009,2,AR,Psychiatrists,100,140920,NA,NA,38542,NA
+Arkansas,2010,2,AR,Psychiatrists,160,144370,NA,NA,39267,NA
+Arkansas,2011,2,AR,Psychiatrists,130,157000,NA,100005,49212,NA
+Arkansas,2012,2,AR,Psychiatrists,160,171940,4091,108347,40531,NA
+Arkansas,2013,2,AR,Psychiatrists,NA,122100,305,115699,50759,NA
+Arkansas,2014,2,AR,Psychiatrists,100,140920,317,123130,51464,NA
+Arkansas,2015,2,AR,Psychiatrists,60,145080,2851,136115,52449,NA
+Arkansas,2016,2,AR,Psychiatrists,60,160340,257,145248,53123,NA
+Arkansas,2017,2,AR,Psychiatrists,120,141170,456,179738,NA,NA
+California,2003,1,CA,Psychiatrists,1970,147590,NA,NA,NA,NA
+California,2004,1,CA,Psychiatrists,NA,179680,NA,NA,NA,NA
+California,2005,1,CA,Psychiatrists,NA,171590,NA,NA,61476,NA
+California,2006,1,CA,Psychiatrists,NA,176700,NA,NA,64563,8
+California,2007,1,CA,Psychiatrists,2480,151680,NA,NA,67484,NA
+California,2008,1,CA,Psychiatrists,2840,155190,NA,NA,61021,NA
+California,2009,1,CA,Psychiatrists,3260,184980,NA,NA,60392,NA
+California,2010,1,CA,Psychiatrists,4260,178710,NA,NA,60883,NA
+California,2011,1,CA,Psychiatrists,4070,192290,NA,242766,67745,9
+California,2012,1,CA,Psychiatrists,4540,179270,10649,268479,61400,10
+California,2013,1,CA,Psychiatrists,4460,191460,286,283913,69661,9
+California,2014,1,CA,Psychiatrists,3260,184980,405,292877,70187,25
+California,2015,1,CA,Psychiatrists,NA,176700,470,312264,73581,35
+California,2016,1,CA,Psychiatrists,2480,151680,1163,324417,72952,NA
+California,2017,1,CA,Psychiatrists,2840,155190,389,344622,NA,23
+Colorado,2003,2,CO,Psychiatrists,170,155130,NA,NA,NA,NA
+Colorado,2004,2,CO,Psychiatrists,NA,190180,NA,NA,NA,NA
+Colorado,2005,2,CO,Psychiatrists,680,187060,NA,NA,62470,NA
+Colorado,2006,2,CO,Psychiatrists,650,183320,NA,NA,64614,NA
+Colorado,2007,2,CO,Psychiatrists,600,181190,NA,NA,67491,NA
+Colorado,2008,2,CO,Psychiatrists,450,NA,NA,NA,56993,NA
+Colorado,2009,2,CO,Psychiatrists,270,147080,NA,NA,56222,NA
+Colorado,2010,2,CO,Psychiatrists,320,154580,NA,NA,56456,NA
+Colorado,2011,2,CO,Psychiatrists,350,165090,NA,48783,70461,NA
+Colorado,2012,2,CO,Psychiatrists,400,186940,2609,54475,58244,82
+Colorado,2013,2,CO,Psychiatrists,460,194560,141,60171,72687,NA
+Colorado,2014,2,CO,Psychiatrists,270,147080,548,63178,73817,NA
+Colorado,2015,2,CO,Psychiatrists,650,183320,237,71452,78384,15
+Colorado,2016,2,CO,Psychiatrists,600,181190,319,77878,77130,NA
+Colorado,2017,2,CO,Psychiatrists,450,NA,1015,92435,NA,3
+Connecticut,2003,3,CT,Psychiatrists,430,138230,NA,NA,NA,NA
+Connecticut,2004,3,CT,Psychiatrists,390,159790,NA,NA,NA,NA
+Connecticut,2005,3,CT,Psychiatrists,360,157730,NA,NA,75541,NA
+Connecticut,2006,3,CT,Psychiatrists,370,151060,NA,NA,78154,NA
+Connecticut,2007,3,CT,Psychiatrists,390,162280,NA,NA,81421,NA
+Connecticut,2008,3,CT,Psychiatrists,440,181300,NA,NA,68595,NA
+Connecticut,2009,3,CT,Psychiatrists,510,191750,NA,NA,67721,NA
+Connecticut,2010,3,CT,Psychiatrists,520,200900,NA,NA,67740,11
+Connecticut,2011,3,CT,Psychiatrists,570,186930,NA,39386,84558,NA
+Connecticut,2012,3,CT,Psychiatrists,780,175210,974,39750,69519,29
+Connecticut,2013,3,CT,Psychiatrists,910,182020,150,39950,87245,NA
+Connecticut,2014,3,CT,Psychiatrists,510,191750,715,40740,88217,NA
+Connecticut,2015,3,CT,Psychiatrists,370,151060,319,49877,91388,NA
+Connecticut,2016,3,CT,Psychiatrists,390,162280,35,63576,91274,NA
+Connecticut,2017,3,CT,Psychiatrists,440,181300,1464,82400,NA,NA
+Delaware,2003,4,DE,Psychiatrists,180,101900,NA,NA,NA,NA
+Delaware,2004,4,DE,Psychiatrists,70,100440,NA,NA,NA,NA
+Delaware,2005,4,DE,Psychiatrists,NA,99970,NA,NA,63863,NA
+Delaware,2006,4,DE,Psychiatrists,90,120250,NA,NA,62623,NA
+Delaware,2007,4,DE,Psychiatrists,70,177050,NA,NA,66198,NA
+Delaware,2008,4,DE,Psychiatrists,90,171610,NA,NA,57989,NA
+Delaware,2009,4,DE,Psychiatrists,90,161660,NA,NA,57618,NA
+Delaware,2010,4,DE,Psychiatrists,90,153300,NA,NA,57599,NA
+Delaware,2011,4,DE,Psychiatrists,80,192950,NA,3304,70218,NA
+Delaware,2012,4,DE,Psychiatrists,80,194620,344,3687,60119,NA
+Delaware,2013,4,DE,Psychiatrists,90,180630,65,3832,71811,NA
+Delaware,2014,4,DE,Psychiatrists,90,161660,15,3907,72683,NA
+Delaware,2015,4,DE,Psychiatrists,90,120250,25,4087,74931,NA
+Delaware,2016,4,DE,Psychiatrists,70,177050,52,4408,73831,NA
+Delaware,2017,4,DE,Psychiatrists,90,171610,40,4852,NA,NA
+Florida,2003,1,FL,Psychiatrists,480,142560,NA,NA,NA,NA
+Florida,2004,1,FL,Psychiatrists,460,148790,NA,NA,NA,NA
+Florida,2005,1,FL,Psychiatrists,520,147290,NA,NA,50465,NA
+Florida,2006,1,FL,Psychiatrists,600,142760,NA,NA,54445,NA
+Florida,2007,1,FL,Psychiatrists,740,144940,NA,NA,56966,NA
+Florida,2008,1,FL,Psychiatrists,790,159640,NA,NA,47778,NA
+Florida,2009,1,FL,Psychiatrists,720,169980,NA,NA,47450,NA
+Florida,2010,1,FL,Psychiatrists,520,176740,NA,NA,47661,NA
+Florida,2011,1,FL,Psychiatrists,440,176920,NA,156971,55043,NA
+Florida,2012,1,FL,Psychiatrists,480,182820,12571,175528,47309,NA
+Florida,2013,1,FL,Psychiatrists,600,176290,566,187763,56738,7
+Florida,2014,1,FL,Psychiatrists,720,169980,173,199828,57176,NA
+Florida,2015,1,FL,Psychiatrists,600,142760,700,254391,59339,NA
+Florida,2016,1,FL,Psychiatrists,740,144940,1260,277227,59139,102
+Florida,2017,1,FL,Psychiatrists,790,159640,896,343288,NA,16
+Georgia,2003,2,GA,Psychiatrists,80,130510,NA,NA,NA,NA
+Georgia,2004,2,GA,Psychiatrists,120,130300,NA,NA,NA,NA
+Georgia,2005,2,GA,Psychiatrists,150,124970,NA,NA,53744,NA
+Georgia,2006,2,GA,Psychiatrists,160,158180,NA,NA,56112,NA
+Georgia,2007,2,GA,Psychiatrists,290,148030,NA,NA,58403,NA
+Georgia,2008,2,GA,Psychiatrists,410,134710,NA,NA,50861,NA
+Georgia,2009,2,GA,Psychiatrists,460,137940,NA,NA,49466,NA
+Georgia,2010,2,GA,Psychiatrists,350,143380,NA,NA,49347,NA
+Georgia,2011,2,GA,Psychiatrists,260,166740,NA,106001,57018,NA
+Georgia,2012,2,GA,Psychiatrists,370,188640,12906,114110,49604,5
+Georgia,2013,2,GA,Psychiatrists,470,202590,899,135024,58755,NA
+Georgia,2014,2,GA,Psychiatrists,460,137940,914,145412,59068,NA
+Georgia,2015,2,GA,Psychiatrists,160,158180,683,168162,61250,NA
+Georgia,2016,2,GA,Psychiatrists,290,148030,1530,165523,61328,NA
+Georgia,2017,2,GA,Psychiatrists,410,134710,871,190050,NA,NA
+Hawaii,2003,4,HI,Psychiatrists,NA,78130,NA,NA,NA,NA
+Hawaii,2004,4,HI,Psychiatrists,NA,97930,NA,NA,NA,NA
+Hawaii,2005,4,HI,Psychiatrists,140,105300,NA,NA,66472,NA
+Hawaii,2006,4,HI,Psychiatrists,120,150610,NA,NA,70277,NA
+Hawaii,2007,4,HI,Psychiatrists,130,153330,NA,NA,73879,NA
+Hawaii,2008,4,HI,Psychiatrists,180,167060,NA,NA,67214,NA
+Hawaii,2009,4,HI,Psychiatrists,160,149640,NA,NA,64661,NA
+Hawaii,2010,4,HI,Psychiatrists,170,151030,NA,NA,66420,NA
+Hawaii,2011,4,HI,Psychiatrists,170,129310,NA,5692,77385,NA
+Hawaii,2012,4,HI,Psychiatrists,190,121230,148,6185,67492,NA
+Hawaii,2013,4,HI,Psychiatrists,190,135560,19,6954,79963,NA
+Hawaii,2014,4,HI,Psychiatrists,160,149640,21,7105,80371,NA
+Hawaii,2015,4,HI,Psychiatrists,120,150610,5,7403,83823,NA
+Hawaii,2016,4,HI,Psychiatrists,130,153330,3,7571,83451,NA
+Hawaii,2017,4,HI,Psychiatrists,180,167060,5,7859,NA,NA
+Idaho,2003,4,ID,Psychiatrists,40,145700,NA,NA,NA,NA
+Idaho,2004,4,ID,Psychiatrists,80,172820,NA,NA,NA,NA
+Idaho,2005,4,ID,Psychiatrists,NA,189350,NA,NA,48775,NA
+Idaho,2006,4,ID,Psychiatrists,NA,185420,NA,NA,51640,NA
+Idaho,2007,4,ID,Psychiatrists,NA,#,NA,NA,54342,NA
+Idaho,2010,4,ID,Psychiatrists,30,148560,NA,NA,46423,NA
+Idaho,2011,4,ID,Psychiatrists,30,140700,NA,16408,53805,NA
+Idaho,2012,4,ID,Psychiatrists,NA,219340,1087,17455,47015,NA
+Idaho,2013,4,ID,Psychiatrists,NA,222150,70,18439,55905,NA
+Idaho,2015,4,ID,Psychiatrists,NA,185420,103,31117,60081,NA
+Idaho,2016,4,ID,Psychiatrists,NA,#,133,22238,59652,NA
+Illinois,2003,3,IL,Psychiatrists,1150,105910,NA,NA,NA,NA
+Illinois,2004,3,IL,Psychiatrists,330,130220,NA,NA,NA,NA
+Illinois,2005,3,IL,Psychiatrists,440,99130,NA,NA,61174,NA
+Illinois,2006,3,IL,Psychiatrists,560,108060,NA,NA,63121,NA
+Illinois,2007,3,IL,Psychiatrists,730,97180,NA,NA,65761,NA
+Illinois,2008,3,IL,Psychiatrists,620,110240,NA,NA,56235,26
+Illinois,2009,3,IL,Psychiatrists,730,97400,NA,NA,55222,NA
+Illinois,2010,3,IL,Psychiatrists,770,121340,NA,NA,55735,NA
+Illinois,2011,3,IL,Psychiatrists,790,123570,NA,27087,67892,NA
+Illinois,2012,3,IL,Psychiatrists,760,166770,3302,30319,56853,NA
+Illinois,2013,3,IL,Psychiatrists,880,147590,481,34932,70344,NA
+Illinois,2014,3,IL,Psychiatrists,730,97400,196,39019,70967,NA
+Illinois,2015,3,IL,Psychiatrists,560,108060,200,44560,73884,NA
+Illinois,2016,3,IL,Psychiatrists,730,97180,377,42924,73714,NA
+Illinois,2017,3,IL,Psychiatrists,620,110240,372,49566,NA,NA
+Indiana,2003,2,IN,Psychiatrists,360,149180,NA,NA,NA,NA
+Indiana,2004,2,IN,Psychiatrists,270,159840,NA,NA,NA,NA
+Indiana,2005,2,IN,Psychiatrists,310,156980,NA,NA,54077,NA
+Indiana,2006,2,IN,Psychiatrists,400,165580,NA,NA,55781,NA
+Indiana,2007,2,IN,Psychiatrists,450,163800,NA,NA,57734,NA
+Indiana,2008,2,IN,Psychiatrists,360,183140,NA,NA,47966,NA
+Indiana,2009,2,IN,Psychiatrists,270,199820,NA,NA,47465,NA
+Indiana,2010,2,IN,Psychiatrists,310,202150,NA,NA,47697,NA
+Indiana,2011,2,IN,Psychiatrists,340,207310,NA,108170,57996,NA
+Indiana,2012,2,IN,Psychiatrists,290,205640,4774,112931,48374,NA
+Indiana,2013,2,IN,Psychiatrists,270,217460,287,117373,59911,NA
+Indiana,2014,2,IN,Psychiatrists,270,199820,603,118295,60440,NA
+Indiana,2015,2,IN,Psychiatrists,400,165580,399,121421,63165,NA
+Indiana,2016,2,IN,Psychiatrists,450,163800,551,138825,62748,NA
+Indiana,2017,2,IN,Psychiatrists,360,183140,296,146487,NA,NA
+Iowa,2003,2,IA,Psychiatrists,300,146610,NA,NA,NA,NA
+Iowa,2004,2,IA,Psychiatrists,150,144010,NA,NA,NA,NA
+Iowa,2005,2,IA,Psychiatrists,140,152820,NA,NA,54971,NA
+Iowa,2006,2,IA,Psychiatrists,160,162050,NA,NA,55735,NA
+Iowa,2007,2,IA,Psychiatrists,130,179690,NA,NA,59587,NA
+Iowa,2008,2,IA,Psychiatrists,120,187100,NA,NA,48980,NA
+Iowa,2009,2,IA,Psychiatrists,150,199050,NA,NA,48052,NA
+Iowa,2010,2,IA,Psychiatrists,140,202380,NA,NA,48872,NA
+Iowa,2011,2,IA,Psychiatrists,170,182630,NA,71807,63433,NA
+Iowa,2012,2,IA,Psychiatrists,180,185850,922,80736,51129,NA
+Iowa,2013,2,IA,Psychiatrists,200,187380,71,90174,65802,NA
+Iowa,2014,2,IA,Psychiatrists,150,199050,111,92700,66829,NA
+Iowa,2015,2,IA,Psychiatrists,160,162050,295,100386,69382,NA
+Iowa,2016,2,IA,Psychiatrists,130,179690,163,103758,69419,NA
+Iowa,2017,2,IA,Psychiatrists,120,187100,275,114019,NA,NA
+Kansas,2003,2,KS,Psychiatrists,NA,161280,NA,NA,NA,NA
+Kansas,2004,2,KS,Psychiatrists,NA,167570,NA,NA,NA,NA
+Kansas,2005,2,KS,Psychiatrists,NA,174010,NA,NA,53998,NA
+Kansas,2006,2,KS,Psychiatrists,NA,180960,NA,NA,56857,NA
+Kansas,2007,2,KS,Psychiatrists,NA,177590,NA,NA,60510,NA
+Kansas,2008,2,KS,Psychiatrists,140,175300,NA,NA,50177,NA
+Kansas,2009,2,KS,Psychiatrists,130,186460,NA,NA,48394,NA
+Kansas,2010,2,KS,Psychiatrists,120,191570,NA,NA,49424,NA
+Kansas,2011,2,KS,Psychiatrists,150,207320,NA,25024,63317,NA
+Kansas,2012,2,KS,Psychiatrists,160,206440,1788,27553,51273,NA
+Kansas,2013,2,KS,Psychiatrists,170,205720,114,30323,65069,NA
+Kansas,2014,2,KS,Psychiatrists,130,186460,224,31926,65804,NA
+Kansas,2015,2,KS,Psychiatrists,NA,180960,120,34826,69401,NA
+Kansas,2016,2,KS,Psychiatrists,NA,177590,163,37908,68231,17
+Kansas,2017,2,KS,Psychiatrists,140,175300,273,52634,NA,NA
+Kentucky,2003,2,KY,Psychiatrists,270,150440,NA,NA,NA,NA
+Kentucky,2004,2,KY,Psychiatrists,200,172040,NA,NA,NA,NA
+Kentucky,2005,2,KY,Psychiatrists,220,178320,NA,NA,46214,NA
+Kentucky,2006,2,KY,Psychiatrists,240,175300,NA,NA,48726,NA
+Kentucky,2007,2,KY,Psychiatrists,250,172590,NA,NA,50291,NA
+Kentucky,2008,2,KY,Psychiatrists,190,173730,NA,NA,41538,7
+Kentucky,2009,2,KY,Psychiatrists,190,178470,NA,NA,41197,NA
+Kentucky,2010,2,KY,Psychiatrists,210,180470,NA,NA,41576,NA
+Kentucky,2011,2,KY,Psychiatrists,200,190410,NA,40500,52123,NA
+Kentucky,2012,2,KY,Psychiatrists,170,199330,3719,49024,42610,NA
+Kentucky,2013,2,KY,Psychiatrists,170,224020,3727,55670,54279,NA
+Kentucky,2014,2,KY,Psychiatrists,190,178470,454,59240,54928,NA
+Kentucky,2015,2,KY,Psychiatrists,240,175300,184,63628,56187,NA
+Kentucky,2016,2,KY,Psychiatrists,250,172590,602,72199,56522,NA
+Kentucky,2017,2,KY,Psychiatrists,190,173730,1081,81068,NA,NA
+Louisiana,2003,4,LA,Psychiatrists,NA,181070,NA,NA,NA,NA
+Louisiana,2004,4,LA,Psychiatrists,50,127570,NA,NA,NA,NA
+Louisiana,2005,4,LA,Psychiatrists,50,122860,NA,NA,45730,NA
+Louisiana,2007,4,LA,Psychiatrists,200,106400,NA,NA,50727,NA
+Louisiana,2009,4,LA,Psychiatrists,140,157490,NA,NA,42167,NA
+Louisiana,2010,4,LA,Psychiatrists,120,180310,NA,NA,43445,NA
+Louisiana,2011,4,LA,Psychiatrists,NA,197940,NA,55883,54730,NA
+Louisiana,2012,4,LA,Psychiatrists,NA,196330,5163,58964,44673,NA
+Louisiana,2013,4,LA,Psychiatrists,60,150410,270,63602,56288,NA
+Louisiana,2014,4,LA,Psychiatrists,140,157490,207,69668,56755,NA
+Louisiana,2016,4,LA,Psychiatrists,200,106400,378,89015,58068,6
+Maine,2003,4,ME,Psychiatrists,160,154250,NA,NA,NA,NA
+Maine,2004,4,ME,Psychiatrists,140,159420,NA,NA,NA,NA
+Maine,2006,4,ME,Psychiatrists,180,135150,NA,NA,52793,NA
+Maine,2007,4,ME,Psychiatrists,170,148010,NA,NA,56266,NA
+Maine,2008,4,ME,Psychiatrists,130,170730,NA,NA,46581,NA
+Maine,2009,4,ME,Psychiatrists,130,175220,NA,NA,46541,NA
+Maine,2010,4,ME,Psychiatrists,110,190630,NA,NA,46933,NA
+Maine,2011,4,ME,Psychiatrists,90,201860,NA,26061,59547,NA
+Maine,2012,4,ME,Psychiatrists,140,232390,450,26151,48219,NA
+Maine,2013,4,ME,Psychiatrists,160,232310,34,30858,61107,NA
+Maine,2014,4,ME,Psychiatrists,130,175220,102,32682,61824,NA
+Maine,2015,4,ME,Psychiatrists,180,135150,4,34433,64651,NA
+Maine,2016,4,ME,Psychiatrists,170,148010,89,32629,64294,NA
+Maine,2017,4,ME,Psychiatrists,130,170730,285,37152,NA,NA
+Maryland,2003,3,MD,Psychiatrists,1010,133980,NA,NA,NA,NA
+Maryland,2004,3,MD,Psychiatrists,NA,120230,NA,NA,NA,NA
+Maryland,2005,3,MD,Psychiatrists,NA,121060,NA,NA,74879,NA
+Maryland,2007,3,MD,Psychiatrists,NA,123110,NA,NA,82404,NA
+Maryland,2008,3,MD,Psychiatrists,670,125460,NA,NA,70545,NA
+Maryland,2009,3,MD,Psychiatrists,610,131730,NA,NA,69475,NA
+Maryland,2010,3,MD,Psychiatrists,440,150420,NA,NA,70647,NA
+Maryland,2011,3,MD,Psychiatrists,450,167700,NA,74021,86056,NA
+Maryland,2012,3,MD,Psychiatrists,460,162310,1964,82187,72999,NA
+Maryland,2013,3,MD,Psychiatrists,470,204110,93,86869,88738,NA
+Maryland,2014,3,MD,Psychiatrists,610,131730,231,88732,89416,NA
+Maryland,2016,3,MD,Psychiatrists,NA,123110,169,97447,92049,NA
+Maryland,2017,3,MD,Psychiatrists,670,125460,305,103109,NA,6
+Massachusetts,2003,3,MA,Psychiatrists,620,143150,NA,NA,NA,NA
+Massachusetts,2004,3,MA,Psychiatrists,870,140060,NA,NA,NA,NA
+Massachusetts,2005,3,MA,Psychiatrists,820,139240,NA,NA,71655,NA
+Massachusetts,2006,3,MA,Psychiatrists,1020,150460,NA,NA,74463,NA
+Massachusetts,2007,3,MA,Psychiatrists,1040,169260,NA,NA,78497,NA
+Massachusetts,2008,3,MA,Psychiatrists,870,166770,NA,NA,65401,NA
+Massachusetts,2009,3,MA,Psychiatrists,780,183040,NA,NA,64496,NA
+Massachusetts,2010,3,MA,Psychiatrists,710,183880,NA,NA,64509,NA
+Massachusetts,2011,3,MA,Psychiatrists,920,186710,NA,10376,82009,NA
+Massachusetts,2012,3,MA,Psychiatrists,870,185630,690,10871,66658,NA
+Massachusetts,2013,3,MA,Psychiatrists,990,186920,216,11253,84900,NA
+Massachusetts,2014,3,MA,Psychiatrists,780,183040,292,11509,86132,NA
+Massachusetts,2015,3,MA,Psychiatrists,1020,150460,40,12545,90590,NA
+Massachusetts,2016,3,MA,Psychiatrists,1040,169260,197,13402,90180,NA
+Massachusetts,2017,3,MA,Psychiatrists,870,166770,186,15371,NA,NA
+Michigan,2003,2,MI,Psychiatrists,360,146690,NA,NA,NA,NA
+Michigan,2004,2,MI,Psychiatrists,390,170640,NA,NA,NA,NA
+Michigan,2005,2,MI,Psychiatrists,400,162830,NA,NA,57277,NA
+Michigan,2006,2,MI,Psychiatrists,350,151210,NA,NA,57996,NA
+Michigan,2007,2,MI,Psychiatrists,340,157940,NA,NA,59618,NA
+Michigan,2008,2,MI,Psychiatrists,330,169840,NA,NA,48591,NA
+Michigan,2009,2,MI,Psychiatrists,380,169210,NA,NA,48700,NA
+Michigan,2010,2,MI,Psychiatrists,390,173580,NA,NA,48432,NA
+Michigan,2011,2,MI,Psychiatrists,450,183730,NA,33050,58632,NA
+Michigan,2012,2,MI,Psychiatrists,480,180690,4962,36080,48471,NA
+Michigan,2013,2,MI,Psychiatrists,500,188240,649,41232,60793,NA
+Michigan,2014,2,MI,Psychiatrists,380,169210,114,42855,61684,NA
+Michigan,2015,2,MI,Psychiatrists,350,151210,185,47791,63893,NA
+Michigan,2016,2,MI,Psychiatrists,340,157940,418,52222,63958,8
+Michigan,2017,2,MI,Psychiatrists,330,169840,283,65742,NA,NA
+Minnesota,2003,3,MN,Psychiatrists,230,152350,NA,NA,NA,NA
+Minnesota,2004,3,MN,Psychiatrists,360,175760,NA,NA,NA,NA
+Minnesota,2005,3,MN,Psychiatrists,370,165500,NA,NA,63998,15
+Minnesota,2006,3,MN,Psychiatrists,380,157290,NA,NA,66809,NA
+Minnesota,2007,3,MN,Psychiatrists,310,159090,NA,NA,69172,NA
+Minnesota,2008,3,MN,Psychiatrists,310,166760,NA,NA,57288,NA
+Minnesota,2009,3,MN,Psychiatrists,340,209190,NA,NA,57007,NA
+Minnesota,2010,3,MN,Psychiatrists,370,207070,NA,NA,57243,NA
+Minnesota,2011,3,MN,Psychiatrists,370,216360,NA,47116,71826,NA
+Minnesota,2012,3,MN,Psychiatrists,290,195290,1353,48340,59126,8
+Minnesota,2013,3,MN,Psychiatrists,270,206130,109,51150,74683,NA
+Minnesota,2014,3,MN,Psychiatrists,340,209190,187,51658,76190,NA
+Minnesota,2015,3,MN,Psychiatrists,380,157290,120,58239,79893,NA
+Minnesota,2016,3,MN,Psychiatrists,310,159090,185,63999,79595,NA
+Minnesota,2017,3,MN,Psychiatrists,310,166760,73,79307,NA,NA
+Mississippi,2003,4,MS,Psychiatrists,90,146690,NA,NA,NA,15
+Mississippi,2004,4,MS,Psychiatrists,90,147700,NA,NA,NA,NA
+Mississippi,2005,4,MS,Psychiatrists,100,136610,NA,NA,40917,NA
+Mississippi,2006,4,MS,Psychiatrists,100,137100,NA,NA,42805,NA
+Mississippi,2007,4,MS,Psychiatrists,130,140870,NA,NA,44769,NA
+Mississippi,2008,4,MS,Psychiatrists,120,163150,NA,NA,37790,NA
+Mississippi,2009,4,MS,Psychiatrists,160,143330,NA,NA,36796,NA
+Mississippi,2010,4,MS,Psychiatrists,140,136090,NA,NA,37881,NA
+Mississippi,2011,4,MS,Psychiatrists,130,138400,NA,39407,47003,NA
+Mississippi,2012,4,MS,Psychiatrists,90,178740,3439,43589,38882,NA
+Mississippi,2013,4,MS,Psychiatrists,70,224270,320,48318,48471,NA
+Mississippi,2014,4,MS,Psychiatrists,160,143330,379,51550,49125,NA
+Mississippi,2015,4,MS,Psychiatrists,100,137100,386,58475,50069,NA
+Mississippi,2016,4,MS,Psychiatrists,130,140870,311,62914,50592,NA
+Mississippi,2017,4,MS,Psychiatrists,120,163150,374,72996,NA,NA
+Missouri,2003,2,MO,Psychiatrists,440,156960,NA,NA,NA,NA
+Missouri,2004,2,MO,Psychiatrists,410,147570,NA,NA,NA,NA
+Missouri,2005,2,MO,Psychiatrists,390,152420,NA,NA,51477,NA
+Missouri,2006,2,MO,Psychiatrists,510,155620,NA,NA,53026,NA
+Missouri,2007,2,MO,Psychiatrists,500,145500,NA,NA,55947,NA
+Missouri,2008,2,MO,Psychiatrists,500,154880,NA,NA,46867,8
+Missouri,2009,2,MO,Psychiatrists,400,162360,NA,NA,46005,NA
+Missouri,2010,2,MO,Psychiatrists,290,168680,NA,NA,46262,NA
+Missouri,2011,2,MO,Psychiatrists,380,171830,NA,13575,57917,NA
+Missouri,2012,2,MO,Psychiatrists,430,171100,4662,15724,47333,NA
+Missouri,2013,2,MO,Psychiatrists,560,166290,302,18705,59527,NA
+Missouri,2014,2,MO,Psychiatrists,400,162360,386,20389,60414,NA
+Missouri,2015,2,MO,Psychiatrists,510,155620,313,24081,62989,NA
+Missouri,2016,2,MO,Psychiatrists,500,145500,381,27408,62285,NA
+Missouri,2017,2,MO,Psychiatrists,500,154880,467,35494,NA,NA
+Montana,2005,4,MT,Psychiatrists,40,169100,NA,NA,47959,NA
+Montana,2006,4,MT,Psychiatrists,50,169180,NA,NA,51006,NA
+Montana,2007,4,MT,Psychiatrists,50,168780,NA,NA,53497,NA
+Montana,2008,4,MT,Psychiatrists,80,163320,NA,NA,43654,NA
+Montana,2009,4,MT,Psychiatrists,90,156080,NA,NA,43089,NA
+Montana,2010,4,MT,Psychiatrists,140,135280,NA,NA,43872,NA
+Montana,2011,4,MT,Psychiatrists,130,124350,NA,7252,56895,NA
+Montana,2012,4,MT,Psychiatrists,130,136390,911,8293,45456,NA
+Montana,2013,4,MT,Psychiatrists,120,156380,302,10364,59743,NA
+Montana,2014,4,MT,Psychiatrists,90,156080,213,11461,60581,NA
+Montana,2015,4,MT,Psychiatrists,50,169180,118,12798,64061,NA
+Montana,2016,4,MT,Psychiatrists,50,168780,117,15900,63214,NA
+Montana,2017,4,MT,Psychiatrists,80,163320,176,22133,NA,NA
+Nebraska,2003,4,NE,Psychiatrists,90,118880,NA,NA,NA,NA
+Nebraska,2004,4,NE,Psychiatrists,130,120940,NA,NA,NA,NA
+Nebraska,2005,4,NE,Psychiatrists,140,123830,NA,NA,55073,NA
+Nebraska,2006,4,NE,Psychiatrists,150,132360,NA,NA,56940,NA
+Nebraska,2007,4,NE,Psychiatrists,130,121240,NA,NA,58587,13
+Nebraska,2008,4,NE,Psychiatrists,100,118500,NA,NA,49693,NA
+Nebraska,2009,4,NE,Psychiatrists,160,163880,NA,NA,47995,NA
+Nebraska,2010,4,NE,Psychiatrists,140,206020,NA,NA,49342,NA
+Nebraska,2011,4,NE,Psychiatrists,140,189530,NA,86827,63618,NA
+Nebraska,2012,4,NE,Psychiatrists,100,171550,670,95060,51381,NA
+Nebraska,2013,4,NE,Psychiatrists,80,176230,134,105506,65328,NA
+Nebraska,2014,4,NE,Psychiatrists,160,163880,12,109388,66188,NA
+Nebraska,2015,4,NE,Psychiatrists,150,132360,22,122288,71039,NA
+Nebraska,2016,4,NE,Psychiatrists,130,121240,204,131539,69207,NA
+Nebraska,2017,4,NE,Psychiatrists,100,118500,67,152238,NA,NA
+Nevada,2003,4,NV,Psychiatrists,50,146920,NA,NA,NA,NA
+Nevada,2004,4,NV,Psychiatrists,60,153010,NA,NA,NA,NA
+Nevada,2005,4,NV,Psychiatrists,60,149800,NA,NA,57079,NA
+Nevada,2006,4,NV,Psychiatrists,NA,150920,NA,NA,61466,NA
+Nevada,2007,4,NV,Psychiatrists,70,155660,NA,NA,62842,NA
+Nevada,2008,4,NV,Psychiatrists,70,198980,NA,NA,56361,NA
+Nevada,2009,4,NV,Psychiatrists,70,169660,NA,NA,55585,NA
+Nevada,2010,4,NV,Psychiatrists,70,177230,NA,NA,55726,NA
+Nevada,2011,4,NV,Psychiatrists,50,165980,NA,4627,60964,12
+Nevada,2012,4,NV,Psychiatrists,50,165720,2288,5581,54083,NA
+Nevada,2013,4,NV,Psychiatrists,50,177390,33,6285,61359,NA
+Nevada,2014,4,NV,Psychiatrists,70,169660,62,6863,61081,NA
+Nevada,2015,4,NV,Psychiatrists,NA,150920,148,8122,63206,NA
+Nevada,2016,4,NV,Psychiatrists,70,155660,203,9460,62528,NA
+Nevada,2017,4,NV,Psychiatrists,70,198980,476,13272,NA,604
+New Hampshire,2003,4,NH,Psychiatrists,NA,134230,NA,NA,NA,NA
+New Hampshire,2004,4,NH,Psychiatrists,90,151030,NA,NA,NA,NA
+New Hampshire,2005,4,NH,Psychiatrists,80,145020,NA,NA,67354,NA
+New Hampshire,2006,4,NH,Psychiatrists,80,127570,NA,NA,71176,NA
+New Hampshire,2007,4,NH,Psychiatrists,60,118700,NA,NA,74625,NA
+New Hampshire,2008,4,NH,Psychiatrists,NA,117680,NA,NA,63731,NA
+New Hampshire,2010,4,NH,Psychiatrists,60,166170,NA,NA,63277,NA
+New Hampshire,2011,4,NH,Psychiatrists,70,166880,NA,10660,77178,NA
+New Hampshire,2012,4,NH,Psychiatrists,90,181400,435,11770,64925,NA
+New Hampshire,2013,4,NH,Psychiatrists,60,199670,269,13096,79886,NA
+New Hampshire,2015,4,NH,Psychiatrists,80,127570,33,15956,85873,NA
+New Hampshire,2016,4,NH,Psychiatrists,60,118700,154,18011,83709,NA
+New Hampshire,2017,4,NH,Psychiatrists,NA,117680,80,22234,NA,NA
+New Jersey,2003,3,NJ,Psychiatrists,710,171240,NA,NA,NA,NA
+New Jersey,2004,3,NJ,Psychiatrists,760,167870,NA,NA,NA,NA
+New Jersey,2005,3,NJ,Psychiatrists,790,176590,NA,NA,75311,NA
+New Jersey,2006,3,NJ,Psychiatrists,880,176140,NA,NA,77875,NA
+New Jersey,2007,3,NJ,Psychiatrists,830,180450,NA,NA,81823,NA
+New Jersey,2008,3,NJ,Psychiatrists,870,177180,NA,NA,70378,NA
+New Jersey,2009,3,NJ,Psychiatrists,670,197740,NA,NA,68981,NA
+New Jersey,2010,3,NJ,Psychiatrists,760,202200,NA,NA,69811,NA
+New Jersey,2011,3,NJ,Psychiatrists,740,212560,NA,12855,85005,NA
+New Jersey,2012,3,NJ,Psychiatrists,860,202960,1604,18376,71637,NA
+New Jersey,2013,3,NJ,Psychiatrists,690,205320,23,18089,87347,NA
+New Jersey,2014,3,NJ,Psychiatrists,670,197740,2,19284,87999,NA
+New Jersey,2015,3,NJ,Psychiatrists,880,176140,17,23061,90245,NA
+New Jersey,2016,3,NJ,Psychiatrists,830,180450,10,29821,90757,NA
+New Jersey,2017,3,NJ,Psychiatrists,870,177180,5,64135,NA,NA
+New Mexico,2003,2,NM,Psychiatrists,100,165340,NA,NA,NA,NA
+New Mexico,2004,2,NM,Psychiatrists,110,150580,NA,NA,NA,NA
+New Mexico,2005,2,NM,Psychiatrists,130,161180,NA,NA,44097,NA
+New Mexico,2006,2,NM,Psychiatrists,130,172860,NA,NA,48199,NA
+New Mexico,2007,2,NM,Psychiatrists,120,175780,NA,NA,49658,NA
+New Mexico,2008,2,NM,Psychiatrists,130,177390,NA,NA,43508,NA
+New Mexico,2009,2,NM,Psychiatrists,120,174750,NA,NA,42742,NA
+New Mexico,2010,2,NM,Psychiatrists,90,166300,NA,NA,43820,NA
+New Mexico,2011,2,NM,Psychiatrists,150,186410,NA,46605,53054,NA
+New Mexico,2012,2,NM,Psychiatrists,150,184590,2198,48989,44886,NA
+New Mexico,2013,2,NM,Psychiatrists,190,124000,25,50712,54513,NA
+New Mexico,2014,2,NM,Psychiatrists,120,174750,60,51670,54801,NA
+New Mexico,2015,2,NM,Psychiatrists,130,172860,209,54612,56207,NA
+New Mexico,2016,2,NM,Psychiatrists,120,175780,146,55672,55900,NA
+New Mexico,2017,2,NM,Psychiatrists,130,177390,122,57507,NA,NA
+New York,2003,3,NY,Psychiatrists,2830,124250,NA,NA,NA,NA
+New York,2004,3,NY,Psychiatrists,2720,129440,NA,NA,NA,NA
+New York,2005,3,NY,Psychiatrists,3120,122130,NA,NA,59686,NA
+New York,2006,3,NY,Psychiatrists,3150,129190,NA,NA,62138,NA
+New York,2007,3,NY,Psychiatrists,3120,133550,NA,NA,64602,NA
+New York,2008,3,NY,Psychiatrists,2980,148170,NA,NA,56033,NA
+New York,2009,3,NY,Psychiatrists,3420,155930,NA,NA,55233,18
+New York,2010,3,NY,Psychiatrists,3440,161660,NA,NA,55603,NA
+New York,2011,3,NY,Psychiatrists,3220,166200,NA,59789,68161,NA
+New York,2012,3,NY,Psychiatrists,3410,165460,2839,69371,57683,NA
+New York,2013,3,NY,Psychiatrists,3480,163680,29,78495,70670,7
+New York,2014,3,NY,Psychiatrists,3420,155930,4017,84471,71419,NA
+New York,2015,3,NY,Psychiatrists,3150,129190,312,89220,73854,NA
+New York,2016,3,NY,Psychiatrists,3120,133550,191,92251,74036,NA
+New York,2017,3,NY,Psychiatrists,2980,148170,629,97580,NA,NA
+North Carolina,2003,2,NC,Psychiatrists,380,146070,NA,NA,NA,NA
+North Carolina,2004,2,NC,Psychiatrists,370,153260,NA,NA,NA,NA
+North Carolina,2005,2,NC,Psychiatrists,530,129490,NA,NA,49339,NA
+North Carolina,2006,2,NC,Psychiatrists,320,146910,NA,NA,52336,NA
+North Carolina,2007,2,NC,Psychiatrists,370,167320,NA,NA,55028,NA
+North Carolina,2008,2,NC,Psychiatrists,410,173760,NA,NA,46549,NA
+North Carolina,2009,2,NC,Psychiatrists,450,168190,NA,NA,45069,11
+North Carolina,2010,2,NC,Psychiatrists,380,156250,NA,NA,45570,NA
+North Carolina,2011,2,NC,Psychiatrists,380,169710,NA,40008,55338,NA
+North Carolina,2012,2,NC,Psychiatrists,390,157760,9320,48359,46450,NA
+North Carolina,2013,2,NC,Psychiatrists,460,188440,292,51524,56928,NA
+North Carolina,2014,2,NC,Psychiatrists,450,168190,548,54436,57328,NA
+North Carolina,2015,2,NC,Psychiatrists,320,146910,532,64090,60074,NA
+North Carolina,2016,2,NC,Psychiatrists,370,167320,680,67785,59667,NA
+North Carolina,2017,2,NC,Psychiatrists,410,173760,614,76888,NA,NA
+North Dakota,2003,4,ND,Psychiatrists,60,160960,NA,NA,NA,NA
+North Dakota,2004,4,ND,Psychiatrists,80,170760,NA,NA,NA,NA
+North Dakota,2005,4,ND,Psychiatrists,40,175100,NA,NA,53103,NA
+North Dakota,2006,4,ND,Psychiatrists,60,166110,NA,NA,NA,NA
+North Dakota,2007,4,ND,Psychiatrists,50,153430,NA,NA,58827,NA
+North Dakota,2008,4,ND,Psychiatrists,80,167060,NA,NA,45685,NA
+North Dakota,2009,4,ND,Psychiatrists,70,150760,NA,NA,45140,NA
+North Dakota,2010,4,ND,Psychiatrists,50,171480,NA,NA,46781,NA
+North Dakota,2011,4,ND,Psychiatrists,30,171040,NA,51300,67126,NA
+North Dakota,2012,4,ND,Psychiatrists,90,210580,273,55105,51641,NA
+North Dakota,2013,4,ND,Psychiatrists,130,193790,12,61332,70767,NA
+North Dakota,2014,4,ND,Psychiatrists,70,150760,75,64353,72770,NA
+North Dakota,2015,4,ND,Psychiatrists,60,166110,45,69680,79642,NA
+North Dakota,2016,4,ND,Psychiatrists,50,153430,47,70406,77277,NA
+North Dakota,2017,4,ND,Psychiatrists,80,167060,88,76207,NA,NA
+Ohio,2003,2,OH,Psychiatrists,870,163760,NA,NA,NA,NA
+Ohio,2004,2,OH,Psychiatrists,720,162910,NA,NA,NA,12
+Ohio,2005,2,OH,Psychiatrists,670,149310,NA,NA,54086,NA
+Ohio,2006,2,OH,Psychiatrists,700,148350,NA,NA,56148,NA
+Ohio,2007,2,OH,Psychiatrists,710,155830,NA,NA,58374,NA
+Ohio,2008,2,OH,Psychiatrists,760,164940,NA,NA,47988,NA
+Ohio,2009,2,OH,Psychiatrists,700,181750,NA,NA,47144,NA
+Ohio,2010,2,OH,Psychiatrists,810,173240,NA,NA,47358,NA
+Ohio,2011,2,OH,Psychiatrists,1010,170180,NA,98616,59193,NA
+Ohio,2012,2,OH,Psychiatrists,1250,157830,6860,108574,48246,NA
+Ohio,2013,2,OH,Psychiatrists,1300,180000,372,128523,61371,NA
+Ohio,2014,2,OH,Psychiatrists,700,181750,313,131990,62104,NA
+Ohio,2015,2,OH,Psychiatrists,700,148350,73,135267,65176,NA
+Ohio,2016,2,OH,Psychiatrists,710,155830,985,143234,64433,NA
+Ohio,2017,2,OH,Psychiatrists,760,164940,501,173405,NA,3
+Oklahoma,2003,2,OK,Psychiatrists,120,138390,NA,NA,NA,NA
+Oklahoma,2004,2,OK,Psychiatrists,90,169540,NA,NA,NA,NA
+Oklahoma,2005,2,OK,Psychiatrists,80,169580,NA,NA,45990,NA
+Oklahoma,2006,2,OK,Psychiatrists,140,163250,NA,NA,47955,NA
+Oklahoma,2007,2,OK,Psychiatrists,130,163120,NA,NA,51787,NA
+Oklahoma,2008,2,OK,Psychiatrists,160,175850,NA,NA,42822,NA
+Oklahoma,2009,2,OK,Psychiatrists,200,161610,NA,NA,41861,NA
+Oklahoma,2010,2,OK,Psychiatrists,270,160990,NA,NA,42979,NA
+Oklahoma,2011,2,OK,Psychiatrists,250,162040,NA,29522,54263,NA
+Oklahoma,2012,2,OK,Psychiatrists,160,169670,4695,37307,44891,NA
+Oklahoma,2013,2,OK,Psychiatrists,170,141430,57,47497,56464,NA
+Oklahoma,2014,2,OK,Psychiatrists,200,161610,211,47419,57299,NA
+Oklahoma,2015,2,OK,Psychiatrists,140,163250,266,58213,60215,NA
+Oklahoma,2016,2,OK,Psychiatrists,130,163120,187,64063,59742,NA
+Oklahoma,2017,2,OK,Psychiatrists,160,175850,285,71269,NA,NA
+Oregon,2007,2,OR,Psychiatrists,240,178570,NA,NA,59152,NA
+Oregon,2008,2,OR,Psychiatrists,310,186880,NA,NA,50169,NA
+Oregon,2009,2,OR,Psychiatrists,170,219450,NA,NA,49033,NA
+Oregon,2010,2,OR,Psychiatrists,180,229210,NA,NA,49260,NA
+Oregon,2011,2,OR,Psychiatrists,360,229040,NA,35718,59494,NA
+Oregon,2012,2,OR,Psychiatrists,410,228580,2491,38917,50036,NA
+Oregon,2013,2,OR,Psychiatrists,NA,227190,37,42857,61609,NA
+Oregon,2014,2,OR,Psychiatrists,170,219450,74,44811,61890,NA
+Oregon,2016,2,OR,Psychiatrists,240,178570,445,51923,65479,NA
+Oregon,2017,2,OR,Psychiatrists,310,186880,938,61383,NA,NA
+Pennsylvania,2003,1,PA,Psychiatrists,900,122980,NA,NA,NA,NA
+Pennsylvania,2004,1,PA,Psychiatrists,960,126880,NA,NA,NA,NA
+Pennsylvania,2005,1,PA,Psychiatrists,1180,123930,NA,NA,55904,NA
+Pennsylvania,2006,1,PA,Psychiatrists,1390,131840,NA,NA,58148,11
+Pennsylvania,2007,1,PA,Psychiatrists,1400,130710,NA,NA,60825,NA
+Pennsylvania,2008,1,PA,Psychiatrists,1510,137050,NA,NA,50713,NA
+Pennsylvania,2009,1,PA,Psychiatrists,1170,133980,NA,NA,49737,NA
+Pennsylvania,2010,1,PA,Psychiatrists,1110,140960,NA,NA,50398,NA
+Pennsylvania,2011,1,PA,Psychiatrists,1160,152830,NA,146887,64331,NA
+Pennsylvania,2012,1,PA,Psychiatrists,1200,185500,6566,197217,52267,NA
+Pennsylvania,2013,1,PA,Psychiatrists,1150,191810,702,216370,66646,NA
+Pennsylvania,2014,1,PA,Psychiatrists,1170,133980,372,191189,67521,NA
+Pennsylvania,2015,1,PA,Psychiatrists,1390,131840,332,225377,70194,NA
+Pennsylvania,2016,1,PA,Psychiatrists,1400,130710,276,222722,69960,NA
+Pennsylvania,2017,1,PA,Psychiatrists,1510,137050,568,236377,NA,3
+Rhode Island,2003,2,RI,Psychiatrists,100,148260,NA,NA,NA,NA
+Rhode Island,2004,2,RI,Psychiatrists,90,149820,NA,NA,NA,NA
+Rhode Island,2005,2,RI,Psychiatrists,90,153490,NA,NA,64657,NA
+Rhode Island,2006,2,RI,Psychiatrists,130,163830,NA,NA,64733,NA
+Rhode Island,2007,2,RI,Psychiatrists,130,171010,NA,NA,70187,NA
+Rhode Island,2008,2,RI,Psychiatrists,150,169320,NA,NA,55701,NA
+Rhode Island,2009,2,RI,Psychiatrists,160,162670,NA,NA,55569,NA
+Rhode Island,2010,2,RI,Psychiatrists,180,177390,NA,NA,54902,NA
+Rhode Island,2011,2,RI,Psychiatrists,160,182660,NA,3494,70360,NA
+Rhode Island,2012,2,RI,Psychiatrists,110,202700,226,3592,56102,NA
+Rhode Island,2013,2,RI,Psychiatrists,110,186160,56,3913,72717,NA
+Rhode Island,2014,2,RI,Psychiatrists,160,162670,27,3973,73217,NA
+Rhode Island,2015,2,RI,Psychiatrists,130,163830,2,4054,76623,NA
+Rhode Island,2016,2,RI,Psychiatrists,130,171010,7,4128,75655,NA
+Rhode Island,2017,2,RI,Psychiatrists,150,169320,7,4223,NA,NA
+South Carolina,2003,4,SC,Psychiatrists,130,88210,NA,NA,NA,NA
+South Carolina,2004,4,SC,Psychiatrists,270,112690,NA,NA,NA,NA
+South Carolina,2005,4,SC,Psychiatrists,NA,122470,NA,NA,48100,NA
+South Carolina,2006,4,SC,Psychiatrists,180,NA,NA,NA,50334,NA
+South Carolina,2007,4,SC,Psychiatrists,140,125350,NA,NA,52913,NA
+South Carolina,2008,4,SC,Psychiatrists,130,131170,NA,NA,44625,NA
+South Carolina,2010,4,SC,Psychiatrists,90,131950,NA,NA,43939,NA
+South Carolina,2012,4,SC,Psychiatrists,190,137070,5839,45530,44623,NA
+South Carolina,2013,4,SC,Psychiatrists,180,175910,260,50896,55058,NA
+South Carolina,2015,4,SC,Psychiatrists,180,NA,570,68312,59282,10
+South Carolina,2016,4,SC,Psychiatrists,140,125350,775,73213,58158,NA
+South Carolina,2017,4,SC,Psychiatrists,130,131170,559,105601,NA,NA
+South Dakota,2003,4,SD,Psychiatrists,30,162650,NA,NA,NA,NA
+South Dakota,2005,4,SD,Psychiatrists,40,172590,NA,NA,50461,NA
+South Dakota,2007,4,SD,Psychiatrists,30,172240,NA,NA,53910,NA
+South Dakota,2008,4,SD,Psychiatrists,30,187170,NA,NA,46032,NA
+South Dakota,2009,4,SD,Psychiatrists,30,202210,NA,NA,44828,NA
+South Dakota,2014,4,SD,Psychiatrists,30,202210,36,9677,64636,NA
+South Dakota,2016,4,SD,Psychiatrists,30,172240,67,13892,66825,NA
+South Dakota,2017,4,SD,Psychiatrists,30,187170,147,21130,NA,NA
+Tennessee,2003,2,TN,Psychiatrists,410,137280,NA,NA,NA,NA
+Tennessee,2004,2,TN,Psychiatrists,380,141440,NA,NA,NA,NA
+Tennessee,2005,2,TN,Psychiatrists,290,159830,NA,NA,47950,NA
+Tennessee,2006,2,TN,Psychiatrists,290,148340,NA,NA,49804,NA
+Tennessee,2007,2,TN,Psychiatrists,280,161460,NA,NA,51945,NA
+Tennessee,2008,2,TN,Psychiatrists,290,161440,NA,NA,43614,NA
+Tennessee,2009,2,TN,Psychiatrists,270,167260,NA,NA,42943,NA
+Tennessee,2010,2,TN,Psychiatrists,240,161560,NA,NA,43314,NA
+Tennessee,2011,2,TN,Psychiatrists,250,175540,NA,59437,52889,NA
+Tennessee,2012,2,TN,Psychiatrists,240,188020,6101,65524,44140,NA
+Tennessee,2013,2,TN,Psychiatrists,250,184580,338,71107,54779,NA
+Tennessee,2014,2,TN,Psychiatrists,270,167260,295,73320,55459,NA
+Tennessee,2015,2,TN,Psychiatrists,290,148340,397,80701,57830,7
+Tennessee,2016,2,TN,Psychiatrists,280,161460,616,87104,57747,NA
+Tennessee,2017,2,TN,Psychiatrists,290,161440,559,99159,NA,NA
+Texas,2003,1,TX,Psychiatrists,1030,151620,NA,NA,NA,NA
+Texas,2004,1,TX,Psychiatrists,1130,139720,NA,NA,NA,NA
+Texas,2005,1,TX,Psychiatrists,1020,131170,NA,NA,49769,NA
+Texas,2006,1,TX,Psychiatrists,1140,133940,NA,NA,52355,NA
+Texas,2007,1,TX,Psychiatrists,1160,130480,NA,NA,55742,NA
+Texas,2008,1,TX,Psychiatrists,1410,142930,NA,NA,50043,NA
+Texas,2009,1,TX,Psychiatrists,1660,150750,NA,NA,48199,43
+Texas,2010,1,TX,Psychiatrists,1550,151830,NA,NA,49646,NA
+Texas,2011,1,TX,Psychiatrists,1500,158350,NA,224200,58929,NA
+Texas,2012,1,TX,Psychiatrists,1290,178530,18874,258204,51563,NA
+Texas,2013,1,TX,Psychiatrists,1200,190040,694,303854,61066,NA
+Texas,2014,1,TX,Psychiatrists,1660,150750,2510,337309,61958,15
+Texas,2015,1,TX,Psychiatrists,1140,133940,1024,403185,65316,NA
+Texas,2016,1,TX,Psychiatrists,1160,130480,1247,468581,64585,16
+Texas,2017,1,TX,Psychiatrists,1410,142930,1751,588696,NA,46
+Utah,2003,4,UT,Psychiatrists,160,138380,NA,NA,NA,NA
+Utah,2004,4,UT,Psychiatrists,200,140860,NA,NA,NA,NA
+Utah,2005,4,UT,Psychiatrists,180,126650,NA,NA,54595,NA
+Utah,2006,4,UT,Psychiatrists,180,126980,NA,NA,58141,NA
+Utah,2007,4,UT,Psychiatrists,120,136060,NA,NA,62432,10
+Utah,2008,4,UT,Psychiatrists,130,133870,NA,NA,56633,NA
+Utah,2009,4,UT,Psychiatrists,150,140880,NA,NA,55642,NA
+Utah,2010,4,UT,Psychiatrists,120,144050,NA,NA,56330,NA
+Utah,2011,4,UT,Psychiatrists,210,114090,NA,25986,64095,NA
+Utah,2012,4,UT,Psychiatrists,160,112810,1185,29383,58164,NA
+Utah,2013,4,UT,Psychiatrists,280,86260,227,34536,66646,NA
+Utah,2014,4,UT,Psychiatrists,150,140880,102,37490,67612,NA
+Utah,2015,4,UT,Psychiatrists,180,126980,36,77193,71594,NA
+Utah,2016,4,UT,Psychiatrists,120,136060,46,54367,71058,NA
+Utah,2017,4,UT,Psychiatrists,130,133870,348,72856,NA,NA
+Vermont,2003,4,VT,Psychiatrists,120,100640,NA,NA,NA,NA
+Vermont,2004,4,VT,Psychiatrists,140,100380,NA,NA,NA,NA
+Vermont,2005,4,VT,Psychiatrists,120,124570,NA,NA,57170,NA
+Vermont,2006,4,VT,Psychiatrists,140,125730,NA,NA,58163,NA
+Vermont,2007,4,VT,Psychiatrists,140,125340,NA,NA,61561,NA
+Vermont,2008,4,VT,Psychiatrists,140,115820,NA,NA,52104,NA
+Vermont,2009,4,VT,Psychiatrists,150,120960,NA,NA,51284,NA
+Vermont,2010,4,VT,Psychiatrists,110,118470,NA,NA,51841,NA
+Vermont,2011,4,VT,Psychiatrists,110,136390,NA,202170,65959,NA
+Vermont,2012,4,VT,Psychiatrists,90,141560,298,223303,54168,NA
+Vermont,2013,4,VT,Psychiatrists,90,162990,20,233718,68111,NA
+Vermont,2014,4,VT,Psychiatrists,150,120960,93,248939,68787,NA
+Vermont,2015,4,VT,Psychiatrists,140,125730,23,268234,75595,NA
+Vermont,2016,4,VT,Psychiatrists,140,125340,12,281356,71465,NA
+Vermont,2017,4,VT,Psychiatrists,140,115820,58,307822,NA,NA
+Virginia,2003,3,VA,Psychiatrists,440,134590,NA,NA,NA,NA
+Virginia,2004,3,VA,Psychiatrists,500,134770,NA,NA,NA,NA
+Virginia,2005,3,VA,Psychiatrists,440,128760,NA,NA,65174,NA
+Virginia,2006,3,VA,Psychiatrists,480,149200,NA,NA,66886,NA
+Virginia,2007,3,VA,Psychiatrists,550,169300,NA,NA,70894,55
+Virginia,2008,3,VA,Psychiatrists,540,179610,NA,NA,61233,NA
+Virginia,2009,3,VA,Psychiatrists,530,168700,NA,NA,60316,NA
+Virginia,2010,3,VA,Psychiatrists,450,159930,NA,NA,61406,NA
+Virginia,2011,3,VA,Psychiatrists,420,158810,NA,3664,74766,NA
+Virginia,2012,3,VA,Psychiatrists,390,163580,4062,3803,63636,NA
+Virginia,2013,3,VA,Psychiatrists,540,167740,1013,3904,76754,NA
+Virginia,2014,3,VA,Psychiatrists,530,168700,182,4032,77939,NA
+Virginia,2015,3,VA,Psychiatrists,480,149200,294,4199,80403,NA
+Virginia,2016,3,VA,Psychiatrists,550,169300,424,4723,80068,NA
+Virginia,2017,3,VA,Psychiatrists,540,179610,1015,5872,NA,NA
+Washington,2003,2,WA,Psychiatrists,610,153280,NA,NA,NA,NA
+Washington,2004,2,WA,Psychiatrists,810,140590,NA,NA,NA,NA
+Washington,2005,2,WA,Psychiatrists,860,129780,NA,NA,60077,NA
+Washington,2006,2,WA,Psychiatrists,730,140390,NA,NA,63705,9
+Washington,2007,2,WA,Psychiatrists,580,140820,NA,NA,66642,NA
+Washington,2008,2,WA,Psychiatrists,600,169210,NA,NA,58078,NA
+Washington,2009,2,WA,Psychiatrists,570,173150,NA,NA,56384,5
+Washington,2010,2,WA,Psychiatrists,530,167600,NA,NA,57244,NA
+Washington,2011,2,WA,Psychiatrists,420,178580,NA,44983,69979,NA
+Washington,2012,2,WA,Psychiatrists,380,183880,5053,50550,59374,7
+Washington,2013,2,WA,Psychiatrists,330,188510,284,56951,72168,5
+Washington,2014,2,WA,Psychiatrists,570,173150,199,60009,73039,6
+Washington,2015,2,WA,Psychiatrists,730,140390,217,68427,76954,NA
+Washington,2016,2,WA,Psychiatrists,580,140820,290,75957,76507,5
+Washington,2017,2,WA,Psychiatrists,600,169210,611,91835,NA,NA
+West Virginia,2003,4,WV,Psychiatrists,120,153330,NA,NA,NA,NA
+West Virginia,2004,4,WV,Psychiatrists,200,141850,NA,NA,NA,NA
+West Virginia,2005,4,WV,Psychiatrists,200,141630,NA,NA,42821,NA
+West Virginia,2006,4,WV,Psychiatrists,240,140290,NA,NA,44012,NA
+West Virginia,2007,4,WV,Psychiatrists,140,141690,NA,NA,46338,NA
+West Virginia,2008,4,WV,Psychiatrists,200,161490,NA,NA,37989,NA
+West Virginia,2009,4,WV,Psychiatrists,170,155790,NA,NA,37356,NA
+West Virginia,2010,4,WV,Psychiatrists,120,177770,NA,NA,38380,NA
+West Virginia,2011,4,WV,Psychiatrists,60,158490,NA,35726,50295,NA
+West Virginia,2012,4,WV,Psychiatrists,80,147430,1966,39389,40400,NA
+West Virginia,2013,4,WV,Psychiatrists,80,153370,87,43059,52165,NA
+West Virginia,2014,4,WV,Psychiatrists,170,155790,84,44705,52875,NA
+West Virginia,2015,4,WV,Psychiatrists,240,140290,131,49722,53463,NA
+West Virginia,2016,4,WV,Psychiatrists,140,141690,115,53697,54409,NA
+West Virginia,2017,4,WV,Psychiatrists,200,161490,478,64878,NA,NA
+Wisconsin,2003,2,WI,Psychiatrists,320,122410,NA,NA,NA,NA
+Wisconsin,2004,2,WI,Psychiatrists,300,159730,NA,NA,NA,NA
+Wisconsin,2005,2,WI,Psychiatrists,300,158990,NA,NA,58647,11
+Wisconsin,2006,2,WI,Psychiatrists,380,147120,NA,NA,60634,NA
+Wisconsin,2007,2,WI,Psychiatrists,360,140820,NA,NA,62804,7
+Wisconsin,2008,2,WI,Psychiatrists,330,143650,NA,NA,52094,NA
+Wisconsin,2009,2,WI,Psychiatrists,280,144250,NA,NA,51569,NA
+Wisconsin,2010,2,WI,Psychiatrists,380,191750,NA,NA,51598,NA
+Wisconsin,2011,2,WI,Psychiatrists,390,198350,NA,11517,64492,NA
+Wisconsin,2012,2,WI,Psychiatrists,400,205060,1944,14742,52627,10
+Wisconsin,2013,2,WI,Psychiatrists,290,217940,198,16172,66534,NA
+Wisconsin,2014,2,WI,Psychiatrists,280,144250,190,17429,67232,NA
+Wisconsin,2015,2,WI,Psychiatrists,380,147120,310,23415,70870,4
+Wisconsin,2016,2,WI,Psychiatrists,360,140820,178,31540,69925,NA
+Wisconsin,2017,2,WI,Psychiatrists,330,143650,327,35264,NA,NA
+Wyoming,2007,4,WY,Psychiatrists,60,104370,NA,NA,63947,NA
+Wyoming,2008,4,WY,Psychiatrists,NA,126770,NA,NA,53207,NA
+Wyoming,2009,4,WY,Psychiatrists,40,210550,NA,NA,51990,NA
+Wyoming,2010,4,WY,Psychiatrists,30,206770,NA,NA,53802,NA
+Wyoming,2011,4,WY,Psychiatrists,50,170990,NA,98904,68694,NA
+Wyoming,2012,4,WY,Psychiatrists,NA,215680,358,106513,56573,NA
+Wyoming,2013,4,WY,Psychiatrists,40,225380,61,113375,70868,NA
+Wyoming,2014,4,WY,Psychiatrists,40,210550,851,114052,72086,NA
+Wyoming,2016,4,WY,Psychiatrists,60,104370,26,127787,73654,NA
+Wyoming,2017,4,WY,Psychiatrists,NA,126770,33,132806,NA,NA
